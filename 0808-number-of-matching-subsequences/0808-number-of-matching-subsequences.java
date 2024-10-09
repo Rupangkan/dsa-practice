@@ -9,20 +9,6 @@ class Solution {
         return dp[i][j] = same + notSame;
     }
 
-    int binSearchUpperBound(List<Integer> integers, int si, int ei, int lastIndex) {
-        while (si <= ei && si < integers.size()) {
-            int mid = si + (ei - si) / 2;
-            
-            if (integers.get(mid) > lastIndex) {
-                ei = mid - 1;  // Move to the left half
-            } else {
-                si = mid + 1;  // Move to the right half
-            }
-        }
-        
-        return si;  // This is where the upper bound would be
-    }
-
     public boolean solveBS(String s, String curr, HashMap<Character, ArrayList<Integer>> map) {
         int n = s.length();
         int m = curr.length();
