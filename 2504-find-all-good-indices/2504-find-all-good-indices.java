@@ -11,11 +11,12 @@ class Solution {
         nonInc[0] = 1;
 
         for(int i = 1; i<n; i++) {
-            nonInc[i] = count;
             if(nums[i] <= nums[i-1]) {
                 count++;
+                nonInc[i] = count;
             } else {
                 count = 1;
+                nonInc[i] = count;
             }
         }
 
@@ -23,13 +24,20 @@ class Solution {
         nonDec[n-1] = 1;
 
         for(int i = n-2; i>=0; i--) {
-            nonDec[i] = count;
-            if(nums[i] <= nums[i+1]) count++;
-            else count = 1;
+            if(nums[i] <= nums[i+1]) {
+                count++;
+                nonDec[i] = count;
+            } else {
+                count = 1;
+                nonDec[i] = count;
+            }
         }
 
+        System.out.println(Arrays.toString(nonInc));
+        System.out.println(Arrays.toString(nonDec));
+
         for(int i = k; i<n-k; i++) {
-            if(nonInc[i] >= k && nonDec[i] >= k) {
+            if(nonInc[i-1] >= k && nonDec[i+1] >= k) {
                 ans.add(i);
             }    
         }
