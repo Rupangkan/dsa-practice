@@ -15,11 +15,21 @@ class Solution {
     public int countGoodStrings(int low, int high, int zero, int one) {
         int[] dp = new int[high+1];
         int ans = 0;
-        Arrays.fill(dp, -1);
-        // for(int[] arr: dp) Arrays.fill(arr, -1);
+        dp[0] = 1;
+        for(int i = 1; i<=high; i++) {
+            int len = i;
+            int addZero = len - zero;
+            int addOne = len - one;
+            if(addZero >=0) {
+                dp[i] = (dp[i] + dp[addZero])%mod;
+            }
+            if(addOne >= 0) {
+                dp[i] = (dp[i] + dp[addOne])%mod;
+            }
+        }
 
         for(int i = low; i<=high; i++) {
-            ans = (ans+solve(zero, one, i, dp))%mod;
+            ans = (ans + dp[i])%mod;
         }
         return ans;
     }
