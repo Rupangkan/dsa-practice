@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-number-of-matching-subsequences](https://github.com/Rupangkan/dsa-practice/tree/master/0808-number-of-matching-subsequences) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Rupangkan/dsa-practice/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2504-find-all-good-indices](https://github.com/Rupangkan/dsa-practice/tree/master/2504-find-all-good-indices) |
+| [2562-count-ways-to-build-good-strings](https://github.com/Rupangkan/dsa-practice/tree/master/2562-count-ways-to-build-good-strings) |
 ## Trie
 |  |
 | ------- |
