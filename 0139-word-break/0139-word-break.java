@@ -20,8 +20,20 @@ class Solution {
     }
 
     public boolean wordBreak(String s, List<String> wordDict) {
-        int[] dp = new int[s.length() + 1];
-        // Arrays.fill(dp, -1);
-        return solve(s, wordDict, dp);
+        boolean[] dp = new boolean[s.length() + 1];
+        int n = s.length();
+        dp[n] = true;
+        
+        for(int i = n-1; i>=0; i--) {
+            for(String w: wordDict) {
+                if((i+w.length())<=s.length() && s.startsWith(w, i)) {
+                    dp[i] = dp[i+w.length()];
+                }
+                if(dp[i]) break;
+            }
+        }
+
+        System.out.println(Arrays.toString(dp));
+        return dp[0];
     }
 }
