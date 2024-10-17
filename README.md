@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Rupangkan/dsa-practice/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Rupangkan/dsa-practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Rupangkan/dsa-practice/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Rupangkan/dsa-practice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Rupangkan/dsa-practice/tree/master/0322-coin-change) |
 | [0808-number-of-matching-subsequences](https://github.com/Rupangkan/dsa-practice/tree/master/0808-number-of-matching-subsequences) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Rupangkan/dsa-practice/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Rupangkan/dsa-practice/tree/master/0300-longest-increasing-subsequence) |
 | [0808-number-of-matching-subsequences](https://github.com/Rupangkan/dsa-practice/tree/master/0808-number-of-matching-subsequences) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Rupangkan/dsa-practice/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Dynamic Programming
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Rupangkan/dsa-practice/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Rupangkan/dsa-practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Rupangkan/dsa-practice/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Rupangkan/dsa-practice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Rupangkan/dsa-practice/tree/master/0322-coin-change) |
 | [0647-palindromic-substrings](https://github.com/Rupangkan/dsa-practice/tree/master/0647-palindromic-substrings) |
 | [0808-number-of-matching-subsequences](https://github.com/Rupangkan/dsa-practice/tree/master/0808-number-of-matching-subsequences) |
