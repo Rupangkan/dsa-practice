@@ -17,12 +17,24 @@ class Solution {
     public boolean canPartition(int[] nums) {
         int sum = 0, n = nums.length;
         for(int i = 0; i<n; i++) sum+=nums[i];
-        int[][] dp = new int[n+1][sum/2+1];
+        boolean[][] dp = new boolean[n+1][sum/2+1];
 
         if(sum % 2 != 0) return false;
 
-        for(int[] a: dp) Arrays.fill(a, -1);
+        dp[n][0] = true;
 
-        return part(0, nums, sum/2, dp);
+        for(int i = n-1; i>=0; i--) {
+            dp[i][0] = true;
+            for(int j = 1; j<=sum/2; j++) {
+                boolean take = false;
+                boolean notTake = dp[i+1][j];
+                if(j >= nums[i]) {
+                    take = dp[i+1][j-nums[i]];
+                }
+                dp[i][j] = take || notTake;
+            }
+        }
+
+        return dp[0][sum/2];
     }
 }
