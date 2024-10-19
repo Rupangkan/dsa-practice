@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rupangkan/dsa-practice/tree/master/0001-two-sum) |
+| [0063-unique-paths-ii](https://github.com/Rupangkan/dsa-practice/tree/master/0063-unique-paths-ii) |
 | [0139-word-break](https://github.com/Rupangkan/dsa-practice/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Rupangkan/dsa-practice/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Rupangkan/dsa-practice/tree/master/0198-house-robber) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Rupangkan/dsa-practice/tree/master/0063-unique-paths-ii) |
 | [3578-construct-2d-grid-matching-graph-layout](https://github.com/Rupangkan/dsa-practice/tree/master/3578-construct-2d-grid-matching-graph-layout) |
 ## String
 |  |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rupangkan/dsa-practice/tree/master/0005-longest-palindromic-substring) |
+| [0063-unique-paths-ii](https://github.com/Rupangkan/dsa-practice/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/Rupangkan/dsa-practice/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Rupangkan/dsa-practice/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/Rupangkan/dsa-practice/tree/master/0139-word-break) |
