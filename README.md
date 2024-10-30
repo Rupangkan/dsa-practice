@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Rupangkan/dsa-practice/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2504-find-all-good-indices](https://github.com/Rupangkan/dsa-practice/tree/master/2504-find-all-good-indices) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/Rupangkan/dsa-practice/tree/master/2590-maximum-star-sum-of-a-graph) |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/Rupangkan/dsa-practice/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/Rupangkan/dsa-practice/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Rupangkan/dsa-practice/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3578-construct-2d-grid-matching-graph-layout](https://github.com/Rupangkan/dsa-practice/tree/master/3578-construct-2d-grid-matching-graph-layout) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Rupangkan/dsa-practice/tree/master/0139-word-break) |
 | [0808-number-of-matching-subsequences](https://github.com/Rupangkan/dsa-practice/tree/master/0808-number-of-matching-subsequences) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Rupangkan/dsa-practice/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/Rupangkan/dsa-practice/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/Rupangkan/dsa-practice/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3578-construct-2d-grid-matching-graph-layout](https://github.com/Rupangkan/dsa-practice/tree/master/3578-construct-2d-grid-matching-graph-layout) |
 ## Graph
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Rupangkan/dsa-practice/tree/master/0231-power-of-two) |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/Rupangkan/dsa-practice/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Rupangkan/dsa-practice/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Greedy
 |  |
@@ -145,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Rupangkan/dsa-practice/tree/master/0231-power-of-two) |
+## Number Theory
+|  |
+| ------- |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/Rupangkan/dsa-practice/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 <!---LeetCode Topics End-->
