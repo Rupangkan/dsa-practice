@@ -6,8 +6,10 @@ class Solution {
 
         for(int i = 0; i<n; i++) {
             sum += nums[i];
-            while((i-j+1)*nums[i]-sum > k) {
+            long invalid = (i-j+1)*nums[i]-sum;
+            if(invalid > k) {
                 sum -= nums[(int)j++];
+                invalid = (i-j+1)*nums[i]-sum;
             }
             ans = Math.max(ans, i-j+1);
         }
