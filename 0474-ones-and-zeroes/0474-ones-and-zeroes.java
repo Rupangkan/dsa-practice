@@ -16,13 +16,30 @@ class Solution {
         return dp[idx][z][o] = Math.max(pick, notPick);
         // return Math.max(pick, notPick);
     }
+
     public int findMaxForm(String[] strs, int m, int n) {
         int len = strs.length;
-        int[][][] dp = new int[len][m+1][n+1];
-        for(int[][] arr: dp){
-            for(int[] arr1: arr) Arrays.fill(arr1, -1);
+        // int[][][] dp = new int[len][m+1][n+1];
+        // for(int[][] arr: dp){
+        //     for(int[] arr1: arr) Arrays.fill(arr1, -1);
+        // }
+        // return solve(0, strs, m, n, dp);
+        int[][] dp = new int[m+1][n+1];
+
+        for(String str: strs) {
+            int currZeroes = 0, currOnes = 0;
+            for(int i = 0; i<str.length(); i++) {
+                char curr = str.charAt(i);
+                if(curr == '1') currOnes++;
+                else currZeroes++;
+            }
+            for(int i = m; i>=currZeroes; i--) {
+                for(int j = n; j>=currOnes; j--) {
+                    dp[i][j] = Math.max(dp[i][j], 1+dp[i-currZeroes][j-currOnes]);
+                }
+            }
         }
-        return solve(0, strs, m, n, dp);
+        return dp[m][n];
     
     }
 }
