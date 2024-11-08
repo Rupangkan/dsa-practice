@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-number-of-matching-subsequences](https://github.com/Rupangkan/dsa-practice/tree/master/0808-number-of-matching-subsequences) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Rupangkan/dsa-practice/tree/master/1321-get-equal-substrings-within-budget) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Rupangkan/dsa-practice/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3451-string-compression-iii](https://github.com/Rupangkan/dsa-practice/tree/master/3451-string-compression-iii) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/Rupangkan/dsa-practice/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Rupangkan/dsa-practice/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Binary Search
