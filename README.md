@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/Rupangkan/dsa-practice/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Rupangkan/dsa-practice/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2504-find-all-good-indices](https://github.com/Rupangkan/dsa-practice/tree/master/2504-find-all-good-indices) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rupangkan/dsa-practice/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/Rupangkan/dsa-practice/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Rupangkan/dsa-practice/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2716-prime-subtraction-operation](https://github.com/Rupangkan/dsa-practice/tree/master/2716-prime-subtraction-operation) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Rupangkan/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0808-number-of-matching-subsequences](https://github.com/Rupangkan/dsa-practice/tree/master/0808-number-of-matching-subsequences) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Rupangkan/dsa-practice/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rupangkan/dsa-practice/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Rupangkan/dsa-practice/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/Rupangkan/dsa-practice/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3578-construct-2d-grid-matching-graph-layout](https://github.com/Rupangkan/dsa-practice/tree/master/3578-construct-2d-grid-matching-graph-layout) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Rupangkan/dsa-practice/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Rupangkan/dsa-practice/tree/master/1321-get-equal-substrings-within-budget) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Rupangkan/dsa-practice/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rupangkan/dsa-practice/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Counting
 |  |
