@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/Rupangkan/dsa-practice/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Rupangkan/dsa-practice/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Rupangkan/dsa-practice/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3578-construct-2d-grid-matching-graph-layout](https://github.com/Rupangkan/dsa-practice/tree/master/3578-construct-2d-grid-matching-graph-layout) |
 ## Hash Table
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/Rupangkan/dsa-practice/tree/master/2590-maximum-star-sum-of-a-graph) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Rupangkan/dsa-practice/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3578-construct-2d-grid-matching-graph-layout](https://github.com/Rupangkan/dsa-practice/tree/master/3578-construct-2d-grid-matching-graph-layout) |
 ## Matrix
 |  |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/Rupangkan/dsa-practice/tree/master/0322-coin-change) |
 | [0787-sliding-puzzle](https://github.com/Rupangkan/dsa-practice/tree/master/0787-sliding-puzzle) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Rupangkan/dsa-practice/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Memoization
 |  |
 | ------- |
