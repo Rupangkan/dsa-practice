@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Rupangkan/dsa-practice/tree/master/0494-target-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Rupangkan/dsa-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0747-min-cost-climbing-stairs](https://github.com/Rupangkan/dsa-practice/tree/master/0747-min-cost-climbing-stairs) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Rupangkan/dsa-practice/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Rupangkan/dsa-practice/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/Rupangkan/dsa-practice/tree/master/0792-binary-search) |
 | [0808-number-of-matching-subsequences](https://github.com/Rupangkan/dsa-practice/tree/master/0808-number-of-matching-subsequences) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/Rupangkan/dsa-practice/tree/master/0780-max-chunks-to-make-sorted) |
 | [0808-number-of-matching-subsequences](https://github.com/Rupangkan/dsa-practice/tree/master/0808-number-of-matching-subsequences) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Rupangkan/dsa-practice/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2164-two-best-non-overlapping-events](https://github.com/Rupangkan/dsa-practice/tree/master/2164-two-best-non-overlapping-events) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/Rupangkan/dsa-practice/tree/master/0780-max-chunks-to-make-sorted) |
 | [1917-maximum-average-pass-ratio](https://github.com/Rupangkan/dsa-practice/tree/master/1917-maximum-average-pass-ratio) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Rupangkan/dsa-practice/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Rupangkan/dsa-practice/tree/master/2300-construct-string-with-repeat-limit) |
@@ -311,9 +314,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/Rupangkan/dsa-practice/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Rupangkan/dsa-practice/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/Rupangkan/dsa-practice/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Rupangkan/dsa-practice/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
