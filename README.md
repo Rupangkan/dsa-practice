@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Rupangkan/dsa-practice/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0967-minimum-falling-path-sum](https://github.com/Rupangkan/dsa-practice/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/Rupangkan/dsa-practice/tree/master/1025-minimum-cost-for-tickets) |
+| [1063-best-sightseeing-pair](https://github.com/Rupangkan/dsa-practice/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Rupangkan/dsa-practice/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Rupangkan/dsa-practice/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1917-maximum-average-pass-ratio](https://github.com/Rupangkan/dsa-practice/tree/master/1917-maximum-average-pass-ratio) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-number-of-matching-subsequences](https://github.com/Rupangkan/dsa-practice/tree/master/0808-number-of-matching-subsequences) |
 | [0967-minimum-falling-path-sum](https://github.com/Rupangkan/dsa-practice/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/Rupangkan/dsa-practice/tree/master/1025-minimum-cost-for-tickets) |
+| [1063-best-sightseeing-pair](https://github.com/Rupangkan/dsa-practice/tree/master/1063-best-sightseeing-pair) |
 | [2164-two-best-non-overlapping-events](https://github.com/Rupangkan/dsa-practice/tree/master/2164-two-best-non-overlapping-events) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Rupangkan/dsa-practice/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2504-find-all-good-indices](https://github.com/Rupangkan/dsa-practice/tree/master/2504-find-all-good-indices) |
