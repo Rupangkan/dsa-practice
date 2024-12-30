@@ -1,6 +1,6 @@
 class Solution {
 
-    int mod = 1_00_00_00_00_7;
+    int mod = 1000000007;
 
     public int solve(int zero, int one, int len, int[] dp) {
         if(len == 0) return 1;
