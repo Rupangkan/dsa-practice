@@ -12,6 +12,7 @@ class Solution {
 
         return dp[curr] =  Math.min(pick1, Math.min(pick7, pick30));
     }
+    
     public int mincostTickets(int[] days, int[] costs) {
         int n = days.length, m = costs.length, last = days[n-1];
         int[] dp = new int[last+1];
