@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/Rupangkan/dsa-practice/tree/master/1940-maximum-xor-for-each-query) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Rupangkan/dsa-practice/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Rupangkan/dsa-practice/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2145-grid-game](https://github.com/Rupangkan/dsa-practice/tree/master/2145-grid-game) |
 | [2164-two-best-non-overlapping-events](https://github.com/Rupangkan/dsa-practice/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Rupangkan/dsa-practice/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Rupangkan/dsa-practice/tree/master/2205-find-good-days-to-rob-the-bank) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/Rupangkan/dsa-practice/tree/master/0787-sliding-puzzle) |
 | [0967-minimum-falling-path-sum](https://github.com/Rupangkan/dsa-practice/tree/master/0967-minimum-falling-path-sum) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Rupangkan/dsa-practice/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [2145-grid-game](https://github.com/Rupangkan/dsa-practice/tree/master/2145-grid-game) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Rupangkan/dsa-practice/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Rupangkan/dsa-practice/tree/master/2685-first-completely-painted-row-or-column) |
 | [3578-construct-2d-grid-matching-graph-layout](https://github.com/Rupangkan/dsa-practice/tree/master/3578-construct-2d-grid-matching-graph-layout) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/Rupangkan/dsa-practice/tree/master/1940-maximum-xor-for-each-query) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Rupangkan/dsa-practice/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rupangkan/dsa-practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2145-grid-game](https://github.com/Rupangkan/dsa-practice/tree/master/2145-grid-game) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Rupangkan/dsa-practice/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2358-number-of-ways-to-split-array](https://github.com/Rupangkan/dsa-practice/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Rupangkan/dsa-practice/tree/master/2465-shifting-letters-ii) |
