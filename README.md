@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/Rupangkan/dsa-practice/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Rupangkan/dsa-practice/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Rupangkan/dsa-practice/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Rupangkan/dsa-practice/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/Rupangkan/dsa-practice/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Rupangkan/dsa-practice/tree/master/1396-count-servers-that-communicate) |
 | [1524-string-matching-in-an-array](https://github.com/Rupangkan/dsa-practice/tree/master/1524-string-matching-in-an-array) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-number-of-matching-subsequences](https://github.com/Rupangkan/dsa-practice/tree/master/0808-number-of-matching-subsequences) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Rupangkan/dsa-practice/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Rupangkan/dsa-practice/tree/master/1321-get-equal-substrings-within-budget) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Rupangkan/dsa-practice/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Rupangkan/dsa-practice/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2164-two-best-non-overlapping-events](https://github.com/Rupangkan/dsa-practice/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Rupangkan/dsa-practice/tree/master/2179-most-beautiful-item-for-each-query) |
