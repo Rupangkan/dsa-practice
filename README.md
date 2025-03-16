@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2590-maximum-star-sum-of-a-graph](https://github.com/Rupangkan/dsa-practice/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Rupangkan/dsa-practice/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Rupangkan/dsa-practice/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2665-minimum-time-to-repair-cars](https://github.com/Rupangkan/dsa-practice/tree/master/2665-minimum-time-to-repair-cars) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Rupangkan/dsa-practice/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Rupangkan/dsa-practice/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Rupangkan/dsa-practice/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/Rupangkan/dsa-practice/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Rupangkan/dsa-practice/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Rupangkan/dsa-practice/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2665-minimum-time-to-repair-cars](https://github.com/Rupangkan/dsa-practice/tree/master/2665-minimum-time-to-repair-cars) |
 | [2716-prime-subtraction-operation](https://github.com/Rupangkan/dsa-practice/tree/master/2716-prime-subtraction-operation) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Rupangkan/dsa-practice/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Rupangkan/dsa-practice/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
