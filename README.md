@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Rupangkan/dsa-practice/tree/master/0001-two-sum) |
 | [0063-unique-paths-ii](https://github.com/Rupangkan/dsa-practice/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Rupangkan/dsa-practice/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Rupangkan/dsa-practice/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Rupangkan/dsa-practice/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Rupangkan/dsa-practice/tree/master/0139-word-break) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Rupangkan/dsa-practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rupangkan/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/Rupangkan/dsa-practice/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/Rupangkan/dsa-practice/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rupangkan/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0768-partition-labels](https://github.com/Rupangkan/dsa-practice/tree/master/0768-partition-labels) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Rupangkan/dsa-practice/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Rupangkan/dsa-practice/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/Rupangkan/dsa-practice/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/Rupangkan/dsa-practice/tree/master/0787-sliding-puzzle) |
 | [0967-minimum-falling-path-sum](https://github.com/Rupangkan/dsa-practice/tree/master/0967-minimum-falling-path-sum) |
