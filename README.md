@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/Rupangkan/dsa-practice/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Rupangkan/dsa-practice/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/Rupangkan/dsa-practice/tree/master/2448-count-number-of-bad-pairs) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Rupangkan/dsa-practice/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rupangkan/dsa-practice/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Rupangkan/dsa-practice/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Rupangkan/dsa-practice/tree/master/2609-distinct-prime-factors-of-product-of-array) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Rupangkan/dsa-practice/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Rupangkan/dsa-practice/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/Rupangkan/dsa-practice/tree/master/2465-shifting-letters-ii) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Rupangkan/dsa-practice/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Rupangkan/dsa-practice/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Rupangkan/dsa-practice/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Rupangkan/dsa-practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Rupangkan/dsa-practice/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Rupangkan/dsa-practice/tree/master/2300-construct-string-with-repeat-limit) |
 | [2509-minimize-xor](https://github.com/Rupangkan/dsa-practice/tree/master/2509-minimize-xor) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Rupangkan/dsa-practice/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/Rupangkan/dsa-practice/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Rupangkan/dsa-practice/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2681-put-marbles-in-bags](https://github.com/Rupangkan/dsa-practice/tree/master/2681-put-marbles-in-bags) |
@@ -631,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/Rupangkan/dsa-practice/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Rupangkan/dsa-practice/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Rupangkan/dsa-practice/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Rupangkan/dsa-practice/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Rupangkan/dsa-practice/tree/master/3001-apply-operations-to-maximize-score) |
 ## Monotonic Stack
 |  |
