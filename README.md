@@ -435,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Rupangkan/dsa-practice/tree/master/0797-rabbits-in-forest) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Rupangkan/dsa-practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/Rupangkan/dsa-practice/tree/master/1500-count-largest-group) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Rupangkan/dsa-practice/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rupangkan/dsa-practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/Rupangkan/dsa-practice/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Rupangkan/dsa-practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Rupangkan/dsa-practice/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Rupangkan/dsa-practice/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1502-construct-k-palindrome-strings](https://github.com/Rupangkan/dsa-practice/tree/master/1502-construct-k-palindrome-strings) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Rupangkan/dsa-practice/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1917-maximum-average-pass-ratio](https://github.com/Rupangkan/dsa-practice/tree/master/1917-maximum-average-pass-ratio) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Rupangkan/dsa-practice/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Rupangkan/dsa-practice/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
