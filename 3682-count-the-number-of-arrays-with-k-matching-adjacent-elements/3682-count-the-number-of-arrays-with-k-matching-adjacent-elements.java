@@ -1,35 +1,35 @@
 class Solution {
-    int mod = 1_000_000_007;
-    static long[] revs = new long[100001];
-    static int[] f = new int[100001];
+    final int MOD = 1_000_000_007;
+    final int SZ = 100_000;
+    long[] F = new long[SZ];
+    long[] IF = new long[SZ];
 
-    public long pow(int a, int b) {
-        long res = 1, base = a;
+    Solution() {
+        F[0] = 1;
+        for (int i = 1; i < SZ; i++) F[i] = F[i - 1] * i % MOD;
+        IF[SZ - 1] = pw(F[SZ - 1], MOD - 2);
+        for (int i = SZ - 1; i >= 1; i--) IF[i - 1] = IF[i] * i % MOD;
+    }
+
+    long pw(long a, long b) {
+        long r = 1;
         while (b > 0) {
-            if ((b & 1) == 1) res = res * base % mod;
-            base = base * base % mod;
-            b /= 2;
+            if ((b & 1) != 0) r = r * a % MOD;
+            a = a * a % MOD;
+            b >>= 1;
         }
-        return res;
+        return r;
     }
 
-    public long C(int a, int b) {
-        return (long) getF(a) * rev(getF(a - b)) % mod * rev(getF(b)) % mod;
+    long C(int n, int k) {
+        return F[n] * IF[k] % MOD * IF[n - k] % MOD;
     }
 
-    public long getF(int a) {
-        if (f[a] != 0) return f[a];
-        return f[a] = (int) (getF(a - 1) * a % mod);
-    }
-
-    public long rev(long a) {
-        if (a == 1) return a;
-        return mod - mod / a * rev(mod % a) % mod;
+    private int solve(int n, int m, int k) {
+        return (int) (C(n - 1, k) * m % MOD * pw(m - 1, n - k - 1) % MOD);
     }
 
     public int countGoodArrays(int n, int m, int k) {
-        if (f[0] == 0) f[0] = 1;
-        long res = m * pow(m - 1, n - 1 - k) % mod * C(n - 1, n - 1 - k) % mod;
-        return (int) res;
+        return solve(n, m, k);
     }
 }
