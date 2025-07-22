@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Rupangkan/dsa-practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1656-count-good-triplets](https://github.com/Rupangkan/dsa-practice/tree/master/1656-count-good-triplets) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Rupangkan/dsa-practice/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1813-maximum-erasure-value](https://github.com/Rupangkan/dsa-practice/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Rupangkan/dsa-practice/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1876-map-of-highest-peak](https://github.com/Rupangkan/dsa-practice/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Rupangkan/dsa-practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Rupangkan/dsa-practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/Rupangkan/dsa-practice/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/Rupangkan/dsa-practice/tree/master/1502-construct-k-palindrome-strings) |
+| [1813-maximum-erasure-value](https://github.com/Rupangkan/dsa-practice/tree/master/1813-maximum-erasure-value) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Rupangkan/dsa-practice/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Rupangkan/dsa-practice/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rupangkan/dsa-practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -632,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Rupangkan/dsa-practice/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Rupangkan/dsa-practice/tree/master/1321-get-equal-substrings-within-budget) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Rupangkan/dsa-practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1813-maximum-erasure-value](https://github.com/Rupangkan/dsa-practice/tree/master/1813-maximum-erasure-value) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Rupangkan/dsa-practice/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Rupangkan/dsa-practice/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Rupangkan/dsa-practice/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
