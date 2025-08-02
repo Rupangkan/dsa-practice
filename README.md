@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Rupangkan/dsa-practice/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Rupangkan/dsa-practice/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Rupangkan/dsa-practice/tree/master/0078-subsets) |
+| [0118-pascals-triangle](https://github.com/Rupangkan/dsa-practice/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/Rupangkan/dsa-practice/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Rupangkan/dsa-practice/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Rupangkan/dsa-practice/tree/master/0139-word-break) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Rupangkan/dsa-practice/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/Rupangkan/dsa-practice/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Rupangkan/dsa-practice/tree/master/0091-decode-ways) |
+| [0118-pascals-triangle](https://github.com/Rupangkan/dsa-practice/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/Rupangkan/dsa-practice/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Rupangkan/dsa-practice/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Rupangkan/dsa-practice/tree/master/0198-house-robber) |
