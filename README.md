@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Rupangkan/dsa-practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Rupangkan/dsa-practice/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Rupangkan/dsa-practice/tree/master/3791-fruits-into-baskets-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-special-array-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3427-special-array-ii) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Rupangkan/dsa-practice/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3790-fruits-into-baskets-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Rupangkan/dsa-practice/tree/master/3791-fruits-into-baskets-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -740,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2868-continuous-subarrays](https://github.com/Rupangkan/dsa-practice/tree/master/2868-continuous-subarrays) |
 | [3790-fruits-into-baskets-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Rupangkan/dsa-practice/tree/master/3791-fruits-into-baskets-iii) |
 ## Stack
 |  |
 | ------- |
@@ -868,4 +871,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Rupangkan/dsa-practice/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Rupangkan/dsa-practice/tree/master/3791-fruits-into-baskets-iii) |
 <!---LeetCode Topics End-->
