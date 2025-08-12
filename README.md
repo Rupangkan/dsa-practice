@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Rupangkan/dsa-practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2504-find-all-good-indices](https://github.com/Rupangkan/dsa-practice/tree/master/2504-find-all-good-indices) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Rupangkan/dsa-practice/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2529-range-product-queries-of-powers](https://github.com/Rupangkan/dsa-practice/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Rupangkan/dsa-practice/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rupangkan/dsa-practice/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Rupangkan/dsa-practice/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Rupangkan/dsa-practice/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/Rupangkan/dsa-practice/tree/master/2465-shifting-letters-ii) |
 | [2504-find-all-good-indices](https://github.com/Rupangkan/dsa-practice/tree/master/2504-find-all-good-indices) |
+| [2529-range-product-queries-of-powers](https://github.com/Rupangkan/dsa-practice/tree/master/2529-range-product-queries-of-powers) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Rupangkan/dsa-practice/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/Rupangkan/dsa-practice/tree/master/2915-count-of-interesting-subarrays) |
 | [3427-special-array-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3427-special-array-ii) |
@@ -637,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Rupangkan/dsa-practice/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Rupangkan/dsa-practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2509-minimize-xor](https://github.com/Rupangkan/dsa-practice/tree/master/2509-minimize-xor) |
+| [2529-range-product-queries-of-powers](https://github.com/Rupangkan/dsa-practice/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Rupangkan/dsa-practice/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Rupangkan/dsa-practice/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Rupangkan/dsa-practice/tree/master/2792-neighboring-bitwise-xor) |
