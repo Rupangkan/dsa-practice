@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Rupangkan/dsa-practice/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/Rupangkan/dsa-practice/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Rupangkan/dsa-practice/tree/master/1396-count-servers-that-communicate) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Rupangkan/dsa-practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Rupangkan/dsa-practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Rupangkan/dsa-practice/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Rupangkan/dsa-practice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/Rupangkan/dsa-practice/tree/master/0967-minimum-falling-path-sum) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Rupangkan/dsa-practice/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1396-count-servers-that-communicate](https://github.com/Rupangkan/dsa-practice/tree/master/1396-count-servers-that-communicate) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Rupangkan/dsa-practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1876-map-of-highest-peak](https://github.com/Rupangkan/dsa-practice/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/Rupangkan/dsa-practice/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Rupangkan/dsa-practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/Rupangkan/dsa-practice/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/Rupangkan/dsa-practice/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Rupangkan/dsa-practice/tree/master/1063-best-sightseeing-pair) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Rupangkan/dsa-practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Rupangkan/dsa-practice/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Rupangkan/dsa-practice/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Rupangkan/dsa-practice/tree/master/1986-largest-color-value-in-a-directed-graph) |
