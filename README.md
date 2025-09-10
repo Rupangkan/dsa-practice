@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/Rupangkan/dsa-practice/tree/master/1656-count-good-triplets) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Rupangkan/dsa-practice/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1813-maximum-erasure-value](https://github.com/Rupangkan/dsa-practice/tree/master/1813-maximum-erasure-value) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Rupangkan/dsa-practice/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Rupangkan/dsa-practice/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1876-map-of-highest-peak](https://github.com/Rupangkan/dsa-practice/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Rupangkan/dsa-practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/Rupangkan/dsa-practice/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/Rupangkan/dsa-practice/tree/master/1502-construct-k-palindrome-strings) |
 | [1813-maximum-erasure-value](https://github.com/Rupangkan/dsa-practice/tree/master/1813-maximum-erasure-value) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Rupangkan/dsa-practice/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Rupangkan/dsa-practice/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Rupangkan/dsa-practice/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rupangkan/dsa-practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -586,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/Rupangkan/dsa-practice/tree/master/1502-construct-k-palindrome-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Rupangkan/dsa-practice/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Rupangkan/dsa-practice/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Rupangkan/dsa-practice/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Rupangkan/dsa-practice/tree/master/1917-maximum-average-pass-ratio) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Rupangkan/dsa-practice/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Rupangkan/dsa-practice/tree/master/2140-longest-subsequence-repeated-k-times) |
