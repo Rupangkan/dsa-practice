@@ -1,22 +1,34 @@
 class Solution {
-    private List<List<Integer>> solve(int n) {
-        List<List<Integer>> res = new ArrayList<>();
-        for (int r = 0; r < n; r++) {
-            List<Integer> layer = new ArrayList<>();
-            for (int i = 0; i <= r; i++) {
-                if (i == 0 || i == r) layer.add(1);
-                else {
-                    int x = res.get(r - 1).get(i - 1);
-                    int y = res.get(r - 1).get(i);
-                    layer.add(x + y);
-                }
+    private List<Integer> generateRow(List<List<Integer>> ans, int n, int numRows) {
+        List<Integer> arr = new ArrayList<>();
+        if(n == 0) {
+            arr.add(1);
+            return arr;
+        } 
+
+        for(int i = 0; i<=n; i++) {
+            if(i == 0 || i == n) {
+                arr.add(1);
+                continue;
             }
-            res.add(layer);
+            int left = ans.get(n-1).get(i-1);
+            int right = ans.get(n-1).get(i);
+            arr.add(left + right);
         }
-        return res;
+        return arr;
+    }
+
+    private List<List<Integer>> optimal(int num) {
+        List<List<Integer>> arr = new ArrayList<>();
+        for(int i = 0; i<num; i++) {
+            List<Integer> row = new ArrayList<>();
+            row = generateRow(arr, i, num);
+            arr.add(row);
+        }
+        return arr;
     }
 
     public List<List<Integer>> generate(int numRows) {
-        return solve(numRows);
+        return optimal(numRows);
     }
 }
