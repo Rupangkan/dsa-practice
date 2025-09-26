@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Rupangkan/dsa-practice/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Rupangkan/dsa-practice/tree/master/0494-target-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/Rupangkan/dsa-practice/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/Rupangkan/dsa-practice/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/Rupangkan/dsa-practice/tree/master/0679-24-game) |
 | [0713-subarray-product-less-than-k](https://github.com/Rupangkan/dsa-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0747-min-cost-climbing-stairs](https://github.com/Rupangkan/dsa-practice/tree/master/0747-min-cost-climbing-stairs) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Rupangkan/dsa-practice/tree/master/0300-longest-increasing-subsequence) |
+| [0611-valid-triangle-number](https://github.com/Rupangkan/dsa-practice/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Rupangkan/dsa-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/Rupangkan/dsa-practice/tree/master/0792-binary-search) |
 | [0808-number-of-matching-subsequences](https://github.com/Rupangkan/dsa-practice/tree/master/0808-number-of-matching-subsequences) |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Rupangkan/dsa-practice/tree/master/0368-largest-divisible-subset) |
 | [0594-longest-harmonious-subsequence](https://github.com/Rupangkan/dsa-practice/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/Rupangkan/dsa-practice/tree/master/0611-valid-triangle-number) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Rupangkan/dsa-practice/tree/master/0780-max-chunks-to-make-sorted) |
 | [0808-number-of-matching-subsequences](https://github.com/Rupangkan/dsa-practice/tree/master/0808-number-of-matching-subsequences) |
 | [0900-reordered-power-of-2](https://github.com/Rupangkan/dsa-practice/tree/master/0900-reordered-power-of-2) |
@@ -619,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/Rupangkan/dsa-practice/tree/master/0135-candy) |
+| [0611-valid-triangle-number](https://github.com/Rupangkan/dsa-practice/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/Rupangkan/dsa-practice/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Rupangkan/dsa-practice/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/Rupangkan/dsa-practice/tree/master/0797-rabbits-in-forest) |
@@ -661,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Rupangkan/dsa-practice/tree/master/0031-next-permutation) |
 | [0165-compare-version-numbers](https://github.com/Rupangkan/dsa-practice/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/Rupangkan/dsa-practice/tree/master/0344-reverse-string) |
+| [0611-valid-triangle-number](https://github.com/Rupangkan/dsa-practice/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/Rupangkan/dsa-practice/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/Rupangkan/dsa-practice/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Rupangkan/dsa-practice/tree/master/0868-push-dominoes) |
