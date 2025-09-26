@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Rupangkan/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Rupangkan/dsa-practice/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Rupangkan/dsa-practice/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Rupangkan/dsa-practice/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Rupangkan/dsa-practice/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/Rupangkan/dsa-practice/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Rupangkan/dsa-practice/tree/master/0120-triangle) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Rupangkan/dsa-practice/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/Rupangkan/dsa-practice/tree/master/0368-largest-divisible-subset) |
 | [0594-longest-harmonious-subsequence](https://github.com/Rupangkan/dsa-practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Rupangkan/dsa-practice/tree/master/0611-valid-triangle-number) |
@@ -663,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rupangkan/dsa-practice/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/Rupangkan/dsa-practice/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/Rupangkan/dsa-practice/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/Rupangkan/dsa-practice/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/Rupangkan/dsa-practice/tree/master/0344-reverse-string) |
 | [0611-valid-triangle-number](https://github.com/Rupangkan/dsa-practice/tree/master/0611-valid-triangle-number) |
