@@ -1,58 +1,38 @@
 class Solution {
 
-    private void swap(int[][] mat, int ind1, int ind2) {
-        int t = mat[ind1][ind2];
-        mat[ind2][ind1] = mat[ind1][ind2];
-        mat[ind1][ind2] = t;
+    private void swap(int[][] nums, int ind1, int ind2) {
+        int t = nums[ind1][ind2];
+        nums[ind1][ind2] = nums[ind2][ind1];
+        nums[ind2][ind1] = t;
     }
 
-    private void reverse(int[][] mat) {
-        int n = mat.length;
-        for(int i = 0; i<n; i++) {
-            for(int j = 0; j<n/2; j++) {
-                int t = mat[i][j];
-                mat[i][j] = mat[i][n-1-j];
-                mat[i][n-1-j] = t;
-            }
+    private void swapRow(int[][] nums, int ind1, int ind2, int rowNum) {
+        int t = nums[rowNum][ind2];
+        nums[rowNum][ind2] = nums[rowNum][ind1];
+        nums[rowNum][ind1] = t;
+    }
+
+    private void reverse(int[][] mat, int ind) {
+        int start = 0, end = mat.length - 1;
+
+        while(start<end) {
+            swapRow(mat, start, end, ind);
+            start++;
+            end--;
         }
     }
 
-    // Transpose + reverse
-    private void optimal(int[][] mat) {
+    public void rotate(int[][] mat) {
         int n = mat.length;
 
         for(int i = 0; i<n; i++) {
             for(int j = 0; j<i; j++) {
-                // swap(mat, i, j);
-                int t = mat[i][j];
-                mat[i][j] = mat[j][i];
-                mat[j][i] = t;
+                swap(mat, i, j);
             }
         }
-        reverse(mat);
-    }
-
-    private void brute(int[][] mat) {
-        int n = mat.length;
 
         for(int i = 0; i<n; i++) {
-            for(int j = 0; j<n; j++) {
-                mat[j][(n-1)-i] = mat[i][j];
-            }
+            reverse(mat, i);
         }
-
-    }
-
-    public void rotate(int[][] matrix) {
-        // brute(matrix);
-        optimal(matrix);
     }
 }
-
-// m[0][0] == m[0][2]
-// m[1][0] == m[0][1]
-// m[2][0] == m[0][0]
-
-// m[0][2] == m[2][2]
-// m[1][2] == m[2][1]
-// m[2][2] == m[0][2]
