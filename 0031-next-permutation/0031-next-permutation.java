@@ -1,45 +1,38 @@
 class Solution {
-    
-    private void swap(int[] nums, int one, int two) {
-        int t = nums[one];
-        nums[one] = nums[two];
-        nums[two] = t;   
-        System.out.println(nums);
-        System.out.println(one + " " + two);
+    private void swap(int[] nums, int ind1, int ind2) {
+        int t = nums[ind1];
+        nums[ind1] = nums[ind2];
+        nums[ind2] = t;
     }
 
-    private void reverse(int[] nums, int idx) {
-        int n = nums.length - 1;
-        while(idx<n) {
-            swap(nums, idx, n);
-            idx++;
-            n--;
-        }
-    }
-
-    private void optimal(int[] nums) {
-        int n = nums.length, index = -1;
-
-        for(int i = n-1; i>0; i--) {
-            if(nums[i-1] < nums[i]) {
-                // swap(nums, i, i-1);
-                index = i-1;
-                break;
-            }
-        }
-        if(index == -1) reverse(nums, 0);
-        else {
-            for(int i = n-1; i>0; i--) {
-                if(nums[i] > nums[index]) {
-                    swap(nums, index, i);
-                    break;
-                }
-            }
-            reverse(nums, index + 1);
+    private void reverse(int[] nums, int start, int end) {
+        while(start<end) {
+            swap(nums, start, end);
+            end--;
+            start++;
         }
     }
 
     public void nextPermutation(int[] nums) {
-        optimal(nums);
+        int n = nums.length;
+        int idx = -1;
+
+        for(int i = n-1; i>0; i--) {
+            if(nums[i] > nums[i-1]) {
+                idx = i-1;
+                break;
+            }
+        }
+
+        if(idx == -1) reverse(nums, 0, n-1);
+        else {
+            for(int i = n-1; i>idx; i--) {
+                if(nums[i] > nums[idx]) {
+                    swap(nums, i, idx);
+                    break;
+                }
+            }
+            reverse(nums, idx+1, n-1);
+        }
     }
 }
