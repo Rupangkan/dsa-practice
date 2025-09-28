@@ -1,17 +1,15 @@
 class Solution {
-    private int optimal(int[] p) {
-        int n = p.length;
-        int mini = p[0], profit = 0;
+    public int maxProfit(int[] nums) {
+        int n = nums.length;
+        int min = nums[0];
+        int profit = 0;
 
         for(int i = 0; i<n; i++) {
-            int sell = p[i] - mini;
-            profit = Math.max(profit, sell);
-            mini = Math.min(mini, p[i]); 
+            int sell = nums[i] - min;
+            min = Math.min(min, nums[i]);
+            profit = Math.max(profit, sell); 
         }
-        return profit;
-    }
 
-    public int maxProfit(int[] prices) {
-        return optimal(prices);
+        return profit;
     }
 }
