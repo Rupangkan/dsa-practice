@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Rupangkan/dsa-practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Rupangkan/dsa-practice/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Rupangkan/dsa-practice/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/Rupangkan/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Rupangkan/dsa-practice/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Rupangkan/dsa-practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rupangkan/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Rupangkan/dsa-practice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Rupangkan/dsa-practice/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Rupangkan/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0368-largest-divisible-subset](https://github.com/Rupangkan/dsa-practice/tree/master/0368-largest-divisible-subset) |
 | [0594-longest-harmonious-subsequence](https://github.com/Rupangkan/dsa-practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Rupangkan/dsa-practice/tree/master/0611-valid-triangle-number) |
@@ -681,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Rupangkan/dsa-practice/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/Rupangkan/dsa-practice/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Rupangkan/dsa-practice/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Rupangkan/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/Rupangkan/dsa-practice/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/Rupangkan/dsa-practice/tree/master/0344-reverse-string) |
 | [0611-valid-triangle-number](https://github.com/Rupangkan/dsa-practice/tree/master/0611-valid-triangle-number) |
