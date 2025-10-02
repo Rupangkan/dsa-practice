@@ -632,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Rupangkan/dsa-practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Rupangkan/dsa-practice/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3336-water-bottles-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/Rupangkan/dsa-practice/tree/master/3462-vowels-game-in-a-string) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Rupangkan/dsa-practice/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3548-find-the-count-of-good-integers](https://github.com/Rupangkan/dsa-practice/tree/master/3548-find-the-count-of-good-integers) |
@@ -885,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Rupangkan/dsa-practice/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Rupangkan/dsa-practice/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Rupangkan/dsa-practice/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3336-water-bottles-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3336-water-bottles-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Rupangkan/dsa-practice/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Rupangkan/dsa-practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Rupangkan/dsa-practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
