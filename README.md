@@ -438,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rupangkan/dsa-practice/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Rupangkan/dsa-practice/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Rupangkan/dsa-practice/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Rupangkan/dsa-practice/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/Rupangkan/dsa-practice/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Rupangkan/dsa-practice/tree/master/0091-decode-ways) |
@@ -599,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Rupangkan/dsa-practice/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Rupangkan/dsa-practice/tree/master/0062-unique-paths) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Rupangkan/dsa-practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/Rupangkan/dsa-practice/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Rupangkan/dsa-practice/tree/master/0342-power-of-four) |
@@ -1023,6 +1025,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Rupangkan/dsa-practice/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rupangkan/dsa-practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Rupangkan/dsa-practice/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Rupangkan/dsa-practice/tree/master/2415-count-the-number-of-ideal-arrays) |
