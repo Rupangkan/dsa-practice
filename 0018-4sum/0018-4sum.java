@@ -23,6 +23,8 @@ class Solution {
         return ans.stream().toList();
     }
 
+    //  O(N3*log(M)), where N = size of the array, M = no. of elements in the set.
+    //  O(2 * no. of the quadruplets)+O(N)
     public List<List<Integer>> better(int[] nums, int t) {
         int n = nums.length;
         Set<List<Integer>> ans = new HashSet<>();
@@ -49,6 +51,41 @@ class Solution {
         }
         return ans.stream().toList();
     }
+
+    public List<List<Integer>> optimal(int[] nums, int t) {
+        int n = nums.length;
+        List<List<Integer>> ans = new ArrayList<>();
+        Arrays.sort(nums);
+        // Set<List<Integer>> ans = new HashSet<>();
+        for(int i = 0; i<n; i++) {
+            if(i > 0 && nums[i] == nums[i-1]) continue;
+            for(int j = i+1; j<n; j++) {
+                if(j > i+1 && nums[j] == nums[j-1]) continue;
+                int k = j+1;
+                int l = n-1;
+
+                while(k < l) {
+                    long sum = nums[i];
+                    sum += nums[j];
+                    sum += nums[k];
+                    sum += nums[l];
+                    if(sum == t) {
+                        ans.add(new ArrayList<>(Arrays.asList(nums[i], nums[k], nums[j], nums[k])));
+                        l--;
+                        k++;
+                        while(k<l && nums[k] == nums[k-1]) continue;
+                        while(k<l && nums[l] == nums[l+1]) continue;
+                    } else if(sum > t) {
+                        l--;
+                    } else {
+                        k++;
+                    }
+                }
+            }
+        }
+        return ans;
+    }
+
 
     public List<List<Integer>> fourSum(int[] nums, int target) {
         // return brute(nums, target);
