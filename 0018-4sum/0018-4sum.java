@@ -70,11 +70,11 @@ class Solution {
                     sum += nums[k];
                     sum += nums[l];
                     if(sum == t) {
-                        ans.add(new ArrayList<>(Arrays.asList(nums[i], nums[k], nums[j], nums[k])));
+                        ans.add(new ArrayList<>(Arrays.asList(nums[i], nums[k], nums[j], nums[l])));
                         l--;
                         k++;
-                        while(k<l && nums[k] == nums[k-1]) continue;
-                        while(k<l && nums[l] == nums[l+1]) continue;
+                        while(k<l && nums[k] == nums[k-1]) k++;
+                        while(k<l && nums[l] == nums[l+1]) l--;
                     } else if(sum > t) {
                         l--;
                     } else {
@@ -89,6 +89,7 @@ class Solution {
 
     public List<List<Integer>> fourSum(int[] nums, int target) {
         // return brute(nums, target);
-        return better(nums, target);
+        // return better(nums, target);
+        return optimal(nums, target);
     }
 }
