@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/Rupangkan/dsa-practice/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Rupangkan/dsa-practice/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/Rupangkan/dsa-practice/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/Rupangkan/dsa-practice/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/Rupangkan/dsa-practice/tree/master/0797-rabbits-in-forest) |
 | [0808-number-of-matching-subsequences](https://github.com/Rupangkan/dsa-practice/tree/master/0808-number-of-matching-subsequences) |
 | [0830-largest-triangle-area](https://github.com/Rupangkan/dsa-practice/tree/master/0830-largest-triangle-area) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Rupangkan/dsa-practice/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Rupangkan/dsa-practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0787-sliding-puzzle](https://github.com/Rupangkan/dsa-practice/tree/master/0787-sliding-puzzle) |
+| [0794-swim-in-rising-water](https://github.com/Rupangkan/dsa-practice/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/Rupangkan/dsa-practice/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/Rupangkan/dsa-practice/tree/master/0967-minimum-falling-path-sum) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Rupangkan/dsa-practice/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Rupangkan/dsa-practice/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Rupangkan/dsa-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/Rupangkan/dsa-practice/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/Rupangkan/dsa-practice/tree/master/0794-swim-in-rising-water) |
 | [0808-number-of-matching-subsequences](https://github.com/Rupangkan/dsa-practice/tree/master/0808-number-of-matching-subsequences) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Rupangkan/dsa-practice/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Rupangkan/dsa-practice/tree/master/1321-get-equal-substrings-within-budget) |
@@ -558,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Rupangkan/dsa-practice/tree/master/0407-trapping-rain-water-ii) |
+| [0794-swim-in-rising-water](https://github.com/Rupangkan/dsa-practice/tree/master/0794-swim-in-rising-water) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Rupangkan/dsa-practice/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Rupangkan/dsa-practice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1917-maximum-average-pass-ratio](https://github.com/Rupangkan/dsa-practice/tree/master/1917-maximum-average-pass-ratio) |
@@ -737,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Rupangkan/dsa-practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/Rupangkan/dsa-practice/tree/master/0684-redundant-connection) |
 | [0787-sliding-puzzle](https://github.com/Rupangkan/dsa-practice/tree/master/0787-sliding-puzzle) |
+| [0794-swim-in-rising-water](https://github.com/Rupangkan/dsa-practice/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/Rupangkan/dsa-practice/tree/master/0820-find-eventual-safe-states) |
 | [0945-snakes-and-ladders](https://github.com/Rupangkan/dsa-practice/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rupangkan/dsa-practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -971,6 +976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Rupangkan/dsa-practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Rupangkan/dsa-practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/Rupangkan/dsa-practice/tree/master/0684-redundant-connection) |
+| [0794-swim-in-rising-water](https://github.com/Rupangkan/dsa-practice/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/Rupangkan/dsa-practice/tree/master/0820-find-eventual-safe-states) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Rupangkan/dsa-practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rupangkan/dsa-practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -1015,6 +1021,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Rupangkan/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0684-redundant-connection](https://github.com/Rupangkan/dsa-practice/tree/master/0684-redundant-connection) |
+| [0794-swim-in-rising-water](https://github.com/Rupangkan/dsa-practice/tree/master/0794-swim-in-rising-water) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Rupangkan/dsa-practice/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1396-count-servers-that-communicate](https://github.com/Rupangkan/dsa-practice/tree/master/1396-count-servers-that-communicate) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Rupangkan/dsa-practice/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
