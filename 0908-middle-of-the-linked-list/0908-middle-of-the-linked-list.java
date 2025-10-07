@@ -9,7 +9,8 @@
  * }
  */
 class Solution {
-    public ListNode middleNode(ListNode head) {
+
+    public ListNode brute(ListNode head) {
         ListNode curr = head;
         int n = 0;
 
@@ -26,5 +27,21 @@ class Solution {
         }
 
         return curr;
+    }
+
+    public ListNode optimal(ListNode head) {
+        ListNode fast = head;
+        ListNode slow = head;
+
+        while(fast != null && fast.next != null && slow != null && slow.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+
+        return slow;
+    }
+    
+    public ListNode middleNode(ListNode head) {
+        return optimal(head);
     }
 }
