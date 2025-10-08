@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Rupangkan/dsa-practice/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2358-number-of-ways-to-split-array](https://github.com/Rupangkan/dsa-practice/tree/master/2358-number-of-ways-to-split-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Rupangkan/dsa-practice/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Rupangkan/dsa-practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Rupangkan/dsa-practice/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Rupangkan/dsa-practice/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2429-design-a-food-rating-system](https://github.com/Rupangkan/dsa-practice/tree/master/2429-design-a-food-rating-system) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/Rupangkan/dsa-practice/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Rupangkan/dsa-practice/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Rupangkan/dsa-practice/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Rupangkan/dsa-practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Rupangkan/dsa-practice/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Rupangkan/dsa-practice/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Rupangkan/dsa-practice/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/Rupangkan/dsa-practice/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Rupangkan/dsa-practice/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Rupangkan/dsa-practice/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Rupangkan/dsa-practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Rupangkan/dsa-practice/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/Rupangkan/dsa-practice/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Rupangkan/dsa-practice/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -733,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Rupangkan/dsa-practice/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Rupangkan/dsa-practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Rupangkan/dsa-practice/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Rupangkan/dsa-practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Rupangkan/dsa-practice/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Rupangkan/dsa-practice/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Rupangkan/dsa-practice/tree/master/2699-count-the-number-of-fair-pairs) |
