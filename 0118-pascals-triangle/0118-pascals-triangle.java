@@ -1,26 +1,33 @@
 class Solution {
-    private List<List<Integer>> optimal(int num) {
-        List<List<Integer>> ans = new ArrayList<List<Integer>>();
-        
-        for(int i = 0; i<num; i++) {
-            List<Integer> curr = new ArrayList<>();
-            if(i == 0) curr.add(1);
-            else {
-                for(int j = 0; j<=i; j++) {
-                    if(j == 0 || j == i) curr.add(1);
-                    else {
-                        int left = ans.get(i-1).get(j-1);
-                        int right = ans.get(i-1).get(j);
-                        curr.add(left + right);
-                    }
-                } 
-            }
-            ans.add(curr);
+    private List<Integer> generateRows(int idx, int n, List<List<Integer>> ans) {
+        List<Integer> arr = new ArrayList<>();
+        if(idx == 0) {
+            arr.add(1);
+            return arr;
         }
-        return ans;
+
+        for(int i = 0; i<=idx; i++) {
+            if(i == 0 || i == idx) {
+                arr.add(1);
+            } else {
+                int right = ans.get(idx - 1).get(i);
+                int left = ans.get(idx - 1).get(i-1);
+                int sum = right + left;
+                arr.add(sum);
+            }
+        }
+        return arr;
     }
 
-    public List<List<Integer>> generate(int numRows) {
-        return optimal(numRows);
+    public List<List<Integer>> generate(int n) {
+        List<List<Integer>> ans = new ArrayList<>();
+
+        for(int i = 0; i<n; i++) {
+            List<Integer> temp = new ArrayList<>();
+            temp = generateRows(i, n, ans);
+            ans.add(temp);
+        }
+
+        return ans;
     }
 }
