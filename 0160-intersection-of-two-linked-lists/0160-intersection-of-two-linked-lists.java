@@ -10,35 +10,17 @@
  * }
  */
 public class Solution {
-    private ListNode better(ListNode headA, ListNode headB) {
-        Set<ListNode> st = new HashSet<>();
+    public ListNode getIntersectionNode(ListNode head1, ListNode head2) {
+        ListNode a = head1;
+        ListNode b = head2;
+    
+        if(a == null || b == null) return null;
 
-        while(headA != null) {
-            st.add(headA);
-            headA = headA.next;
+        while(a != b) {
+            a = a == null ? head2 : a.next;
+            b = b == null ? head1 : b.next;
         }
 
-        while(headB != null) {
-            if(st.contains(headB)) return headB;
-            headB = headB.next;
-        }
-
-        return null;
-    }
-
-    private ListNode optimal(ListNode A, ListNode B) {
-        ListNode d1 = A, d2 = B;
-
-        if(A == null || B == null) return null;
-
-        while(d1 != d2) {
-            d1 = d1 == null ? B: d1.next;
-            d2 = d2 == null ? A: d2.next;
-        }
-        return d1;
-    }
-
-    public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
-        return optimal(headA, headB);
+        return a;
     }
 }
