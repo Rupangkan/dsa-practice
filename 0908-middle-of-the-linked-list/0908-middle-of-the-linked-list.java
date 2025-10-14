@@ -9,39 +9,19 @@
  * }
  */
 class Solution {
-
-    public ListNode brute(ListNode head) {
-        ListNode curr = head;
-        int n = 0;
-
-        while(curr != null) {
-            curr = curr.next;
-            n++;
-        }
-        curr = head;
-        int idx = 0, end = (int)Math.ceil(n/2);
-
-        while(idx < end) {
-            curr = curr.next;
-            idx++;
-        }
-
-        return curr;
-    }
-
-    public ListNode optimal(ListNode head) {
-        ListNode fast = head;
+    public ListNode middleNode(ListNode head) {
         ListNode slow = head;
+        ListNode fast = head;
 
-        while(fast != null && fast.next != null && slow != null && slow.next != null) {
+        while(fast.next != null) {
             slow = slow.next;
-            fast = fast.next.next;
+            if(fast.next.next == null) {
+                fast = fast.next;
+            } else {
+                fast = fast.next.next;
+            }
         }
 
         return slow;
-    }
-    
-    public ListNode middleNode(ListNode head) {
-        return optimal(head);
     }
 }
