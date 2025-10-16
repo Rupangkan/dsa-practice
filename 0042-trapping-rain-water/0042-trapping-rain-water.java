@@ -1,4 +1,6 @@
 class Solution {
+    // O3N
+    // O2N or use ON just take the back and for front just keep a max value while iterating
     private int better(int[] h) {
         int n = h.length;
         int[] back = new int[n];
@@ -14,15 +16,6 @@ class Solution {
         for(int i = n-2; i>=0; i--) {
             back[i] = Math.max(h[i], back[i+1]);
         }
-
-        for(int i = 0; i<n; i++) {
-            System.out.print(back[i]);
-        }
-
-        System.out.println();
-        for(int i = 0; i<n; i++) {
-            System.out.print(front[i]);
-        }
         
         int count = 0;
         for(int i = 0; i<n; i++) {
@@ -35,7 +28,33 @@ class Solution {
         return count;
     }
 
+    private int optimal(int[] h) {
+        int n = h.length;
+        int low = 0, high = n-1, leftMax = 0, rightMax = 0;
+        int count = 0;
+
+        while(low < high) {
+            if(h[low] <= h[high]) {
+                if(leftMax > h[low]) {
+                    count += leftMax - h[low]; 
+                } else {
+                    leftMax = h[low];
+                }
+                low++;
+            } else {
+                if(rightMax > h[high]) {
+                    count += rightMax - h[high];
+                } else {
+                    rightMax = h[high];
+                }
+                high--;
+            }
+        }
+        return count;
+    }
+
     public int trap(int[] height) {
-        return better(height);
+        // return better(height);
+        return optimal(height);
     }
 }
