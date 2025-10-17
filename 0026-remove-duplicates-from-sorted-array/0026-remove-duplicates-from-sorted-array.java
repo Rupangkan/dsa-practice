@@ -1,17 +1,20 @@
 class Solution {
-    public int removeDuplicates(int[] nums) {
+    private int brute(int[] nums) {
         int n = nums.length;
-        Set<Integer> set = new TreeSet<>();
-
-        for(int i = 0; i<n; i++) {
-            set.add(nums[i]);
-        }
+        Set<Integer> set = new HashSet<>(); 
         int idx = 0;
-        for(int i: set) {
-            nums[idx] = i;
-            idx++;
+
+        for(int num: nums) {
+            if(!set.contains(num)) {
+                set.add(num);
+                nums[idx] = num;
+                idx++;
+            } 
         }
 
         return set.size();
+    }
+    public int removeDuplicates(int[] nums) {
+        return brute(nums);
     }
 }
