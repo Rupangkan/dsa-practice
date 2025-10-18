@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Rupangkan/dsa-practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3578-construct-2d-grid-matching-graph-layout](https://github.com/Rupangkan/dsa-practice/tree/master/3578-construct-2d-grid-matching-graph-layout) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Rupangkan/dsa-practice/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Rupangkan/dsa-practice/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Rupangkan/dsa-practice/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Rupangkan/dsa-practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -589,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Rupangkan/dsa-practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/Rupangkan/dsa-practice/tree/master/3430-count-days-without-meetings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Rupangkan/dsa-practice/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Rupangkan/dsa-practice/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Rupangkan/dsa-practice/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Rupangkan/dsa-practice/tree/master/3748-sort-matrix-by-diagonals) |
 ## Heap (Priority Queue)
@@ -749,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Rupangkan/dsa-practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Rupangkan/dsa-practice/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Rupangkan/dsa-practice/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Rupangkan/dsa-practice/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Rupangkan/dsa-practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Two Pointers
 |  |
