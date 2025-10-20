@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Rupangkan/dsa-practice/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/Rupangkan/dsa-practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Rupangkan/dsa-practice/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/Rupangkan/dsa-practice/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Rupangkan/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Rupangkan/dsa-practice/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Rupangkan/dsa-practice/tree/master/0053-maximum-subarray) |
@@ -835,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Rupangkan/dsa-practice/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/Rupangkan/dsa-practice/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Rupangkan/dsa-practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Rupangkan/dsa-practice/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/Rupangkan/dsa-practice/tree/master/0494-target-sum) |
