@@ -12,7 +12,7 @@ class Solution {
 
     }
 
-    public List<List<Integer>> subsetsWithDup(int[] nums) {
+    private List<List<Integer>> better(int[] nums) {
         Arrays.sort(nums);
         Set<List<Integer>> set = new HashSet<>();
         List<Integer> temp = new ArrayList<>();
@@ -24,6 +24,26 @@ class Solution {
         for(List<Integer> a: set) {
             ans.add(a);
         }
+        return ans;
+    }
+
+    private void optimal(int idx, int[] nums, List<List<Integer>> ans, List<Integer> temp) {
+        ans.add(new ArrayList<>(temp));
+
+        for(int i = idx; i<nums.length; i++) {
+            if(i > idx && nums[i] == nums[i-1]) continue;
+            temp.add(nums[i]);
+            optimal(i + 1, nums, ans, temp);
+            temp.remove(temp.size()-1);
+        }
+    }
+ 
+    public List<List<Integer>> subsetsWithDup(int[] nums) {
+        Arrays.sort(nums);
+        int n = nums.length;
+        List<List<Integer>> ans = new ArrayList<>();
+
+        optimal(0, nums, ans, new ArrayList<>());
         return ans;
     }
 }
