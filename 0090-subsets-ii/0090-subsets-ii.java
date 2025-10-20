@@ -1,7 +1,7 @@
 class Solution {
     private void test(int idx, int[] nums, Set<List<Integer>> set, List<Integer> temp) {
         if(idx == nums.length) {
-            Collections.sort(temp);
+            // Collections.sort(temp);
             set.add(new ArrayList<>(temp));
             return;
         }
