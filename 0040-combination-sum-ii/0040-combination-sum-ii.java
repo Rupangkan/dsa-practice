@@ -13,6 +13,8 @@ class Solution {
                 temp.add(can[i]);
                 test(can, t - can[i], i + 1, ans, temp);
                 temp.remove(temp.size()-1);
+            } else {
+                break;
             }
     
         }
