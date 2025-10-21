@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Rupangkan/dsa-practice/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/Rupangkan/dsa-practice/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Rupangkan/dsa-practice/tree/master/0091-decode-ways) |
+| [0131-palindrome-partitioning](https://github.com/Rupangkan/dsa-practice/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Rupangkan/dsa-practice/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/Rupangkan/dsa-practice/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Rupangkan/dsa-practice/tree/master/0166-fraction-to-recurring-decimal) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Rupangkan/dsa-practice/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Rupangkan/dsa-practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rupangkan/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Rupangkan/dsa-practice/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Rupangkan/dsa-practice/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Rupangkan/dsa-practice/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Rupangkan/dsa-practice/tree/master/0198-house-robber) |
@@ -847,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Rupangkan/dsa-practice/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Rupangkan/dsa-practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Rupangkan/dsa-practice/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Rupangkan/dsa-practice/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/Rupangkan/dsa-practice/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/Rupangkan/dsa-practice/tree/master/0679-24-game) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Rupangkan/dsa-practice/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
