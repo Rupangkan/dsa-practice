@@ -1,26 +1,33 @@
 class Solution {
-  public boolean solveSudoku(char[][] b) {
-    for (int r=0;r<9;r++){
-      for (int c=0;c<9;c++){
-        if (b[r][c]=='.'){
-          for (char d='1';d<='9';d++){
-            if (isValid(b,r,c,d)){
-              b[r][c]=d;
-              if (solveSudoku(b)) return true;
-              b[r][c]='.';
-            }
-          }
-          return false;
+    private boolean isValid(char[][] board, int n, int row, int col, char a) {
+        for(int i = 0; i<n; i++) {
+            if(board[i][col] == a) return false;
+            if(board[row][i] == a) return false;
+            if(board[3*(row/3)+i/3][3*(col/3)+i%3] == a) return false;
         }
-      }
+        return true;
     }
-    return true;
-  }
 
-  public boolean isValid(char[][] b,int r,int c,char d){
-    for (int k=0;k<9;k++){
-      if (b[r][k]==d||b[k][c]==d||b[(r/3)*3+k/3][(c/3)*3+k%3]==d) return false;
+    private boolean test(int n, char[][] board) {
+        for(int row = 0; row<n; row++) {
+            for(int col = 0; col<n; col++) {
+                if(board[row][col] == '.') {
+                    for(char a = '1'; a<='9'; a++) {
+                        if(isValid(board, n, row, col, a)) {
+                            board[row][col] = a;
+                            if(test(n, board)) return true;
+                            else board[row][col] = '.';
+                        }
+                    }
+                    return false;
+                }
+            }
+        }
+        return true;
     }
-    return true;
-  }
+
+    public void solveSudoku(char[][] board) {
+        int n = board.length;
+        test(n, board);
+    }
 }
