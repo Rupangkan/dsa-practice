@@ -8,6 +8,7 @@ class Solution {
             maxLocal = Math.max(nums[i], nums[i] + maxLocal);
             max = Math.max(max, maxLocal);
         }
+
         return max;
     }
 }
