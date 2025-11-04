@@ -1,5 +1,4 @@
 class Solution {
-
     public int calculateSum(HashMap<Integer, Integer> map, int x) {
         List<Map.Entry<Integer, Integer>> sortList = new ArrayList<>(map.entrySet());
         sortList.sort((a, b) -> {
