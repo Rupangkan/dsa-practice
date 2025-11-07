@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Rupangkan/dsa-practice/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Rupangkan/dsa-practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Rupangkan/dsa-practice/tree/master/0213-house-robber-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Rupangkan/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Rupangkan/dsa-practice/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Rupangkan/dsa-practice/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Rupangkan/dsa-practice/tree/master/0300-longest-increasing-subsequence) |
@@ -599,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Rupangkan/dsa-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Rupangkan/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Rupangkan/dsa-practice/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Rupangkan/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Rupangkan/dsa-practice/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/Rupangkan/dsa-practice/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/Rupangkan/dsa-practice/tree/master/0455-assign-cookies) |
@@ -646,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Rupangkan/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0407-trapping-rain-water-ii](https://github.com/Rupangkan/dsa-practice/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/Rupangkan/dsa-practice/tree/master/0794-swim-in-rising-water) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Rupangkan/dsa-practice/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -1285,6 +1288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Rupangkan/dsa-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Rupangkan/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Rupangkan/dsa-practice/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Rupangkan/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/Rupangkan/dsa-practice/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
@@ -1316,4 +1320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Rupangkan/dsa-practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Rupangkan/dsa-practice/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Rupangkan/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
