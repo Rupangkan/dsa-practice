@@ -557,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rupangkan/dsa-practice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Rupangkan/dsa-practice/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Rupangkan/dsa-practice/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Rupangkan/dsa-practice/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Rupangkan/dsa-practice/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Rupangkan/dsa-practice/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Rupangkan/dsa-practice/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -895,6 +896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Rupangkan/dsa-practice/tree/master/0139-word-break) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Rupangkan/dsa-practice/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Rupangkan/dsa-practice/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Rupangkan/dsa-practice/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Rupangkan/dsa-practice/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -927,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Rupangkan/dsa-practice/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Rupangkan/dsa-practice/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Rupangkan/dsa-practice/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Rupangkan/dsa-practice/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1940-maximum-xor-for-each-query](https://github.com/Rupangkan/dsa-practice/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rupangkan/dsa-practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rupangkan/dsa-practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
