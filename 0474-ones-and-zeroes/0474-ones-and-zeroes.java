@@ -33,11 +33,21 @@ class Solution {
                 if(curr == '1') currOnes++;
                 else currZeroes++;
             }
-            for(int i = m; i>=currZeroes; i--) {
-                for(int j = n; j>=currOnes; j--) {
-                    dp[i][j] = Math.max(dp[i][j], 1+dp[i-currZeroes][j-currOnes]);
+            int[][] dp2 = new int[m+1][n+1];
+            for(int i = 0; i<=m; i++) {
+                dp2[i] = dp[i].clone();
+            }
+            for(int i = 0; i<=m; i++) {
+                for(int j = 0; j<=n; j++) {
+                    if(i-currZeroes >= 0 && j-currOnes >= 0) {
+                        dp2[i][j] = Math.max(dp[i][j], dp[i-currZeroes][j-currOnes]+1);
+                    }
                 }
             }
+            dp = dp2;
+        }
+        for(int i = 0; i<=m; i++) {
+            System.out.println(Arrays.toString(dp[i]));
         }
         return dp[m][n];
     
