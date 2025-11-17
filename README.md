@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Rupangkan/dsa-practice/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rupangkan/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Rupangkan/dsa-practice/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/Rupangkan/dsa-practice/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/Rupangkan/dsa-practice/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Rupangkan/dsa-practice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Rupangkan/dsa-practice/tree/master/0322-coin-change) |
@@ -668,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rupangkan/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/Rupangkan/dsa-practice/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Rupangkan/dsa-practice/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Rupangkan/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/Rupangkan/dsa-practice/tree/master/0407-trapping-rain-water-ii) |
@@ -1013,6 +1015,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rupangkan/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/Rupangkan/dsa-practice/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rupangkan/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/Rupangkan/dsa-practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/Rupangkan/dsa-practice/tree/master/0713-subarray-product-less-than-k) |
@@ -1081,6 +1084,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Rupangkan/dsa-practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rupangkan/dsa-practice/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/Rupangkan/dsa-practice/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Rupangkan/dsa-practice/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Rupangkan/dsa-practice/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Rupangkan/dsa-practice/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -1091,6 +1095,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Rupangkan/dsa-practice/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Rupangkan/dsa-practice/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Rupangkan/dsa-practice/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/Rupangkan/dsa-practice/tree/master/2868-continuous-subarrays) |
