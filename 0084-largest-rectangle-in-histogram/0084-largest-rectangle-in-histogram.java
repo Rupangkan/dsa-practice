@@ -30,6 +30,9 @@ class Solution {
         return ans;
     }
     
+    // Better
+    // O n + n + n + n + n = O 5N
+    // O n + n + n + n = O 4N
     private int better(int[] h) {
         int n = h.length;
         int[] nse = new int[n];
@@ -46,7 +49,35 @@ class Solution {
         return max;
     }
 
+    private int optimal(int[] h) {
+        Deque<Integer> st = new ArrayDeque<>();
+        int n = h.length;
+        int max = 0;
+
+        for(int i = 0; i<n; i++) {
+            while(!st.isEmpty() && h[st.peek()] >= h[i]) {
+                int element = h[st.pop()];
+                int nse = i;
+                int pse = st.isEmpty() ? -1 : st.peek();
+                int width = nse - pse - 1;
+                max = Math.max(max, element * width);
+            }
+            st.push(i);
+        }
+
+        while(!st.isEmpty()) {
+            int ele = st.pop();
+            int height = h[ele];
+            int pse = st.isEmpty() ? -1 : st.peek();
+            int width = n - pse - 1;
+            max = Math.max(max, height * width);
+        }
+
+        return max;
+    }
+
     public int largestRectangleArea(int[] h) {
-        return better(h);
+        // return better(h);
+        return optimal(h);
     }
 }
