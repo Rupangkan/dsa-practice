@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Rupangkan/dsa-practice/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Rupangkan/dsa-practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2504-find-all-good-indices](https://github.com/Rupangkan/dsa-practice/tree/master/2504-find-all-good-indices) |
+| [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Rupangkan/dsa-practice/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Rupangkan/dsa-practice/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2529-range-product-queries-of-powers](https://github.com/Rupangkan/dsa-practice/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Rupangkan/dsa-practice/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Rupangkan/dsa-practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Rupangkan/dsa-practice/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Rupangkan/dsa-practice/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Rupangkan/dsa-practice/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Rupangkan/dsa-practice/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2625-increment-submatrices-by-one](https://github.com/Rupangkan/dsa-practice/tree/master/2625-increment-submatrices-by-one) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Rupangkan/dsa-practice/tree/master/2685-first-completely-painted-row-or-column) |
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Rupangkan/dsa-practice/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Rupangkan/dsa-practice/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2504-find-all-good-indices](https://github.com/Rupangkan/dsa-practice/tree/master/2504-find-all-good-indices) |
+| [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Rupangkan/dsa-practice/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Rupangkan/dsa-practice/tree/master/2562-count-ways-to-build-good-strings) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Rupangkan/dsa-practice/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Rupangkan/dsa-practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
