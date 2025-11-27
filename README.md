@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3639-zero-array-transformation-i](https://github.com/Rupangkan/dsa-practice/tree/master/3639-zero-array-transformation-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Rupangkan/dsa-practice/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Rupangkan/dsa-practice/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Rupangkan/dsa-practice/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Rupangkan/dsa-practice/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Rupangkan/dsa-practice/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Rupangkan/dsa-practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Rupangkan/dsa-practice/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Rupangkan/dsa-practice/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Rupangkan/dsa-practice/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Rupangkan/dsa-practice/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3678-design-task-manager](https://github.com/Rupangkan/dsa-practice/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Rupangkan/dsa-practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -746,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Rupangkan/dsa-practice/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/Rupangkan/dsa-practice/tree/master/3639-zero-array-transformation-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Rupangkan/dsa-practice/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Rupangkan/dsa-practice/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Rupangkan/dsa-practice/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
