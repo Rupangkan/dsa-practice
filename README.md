@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Rupangkan/dsa-practice/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Rupangkan/dsa-practice/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Rupangkan/dsa-practice/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/Rupangkan/dsa-practice/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Rupangkan/dsa-practice/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Rupangkan/dsa-practice/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Rupangkan/dsa-practice/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -762,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3639-zero-array-transformation-i](https://github.com/Rupangkan/dsa-practice/tree/master/3639-zero-array-transformation-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Rupangkan/dsa-practice/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/Rupangkan/dsa-practice/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Rupangkan/dsa-practice/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Rupangkan/dsa-practice/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -831,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-count-number-of-balanced-permutations](https://github.com/Rupangkan/dsa-practice/tree/master/3637-count-number-of-balanced-permutations) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Rupangkan/dsa-practice/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Rupangkan/dsa-practice/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/Rupangkan/dsa-practice/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Rupangkan/dsa-practice/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Rupangkan/dsa-practice/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Rupangkan/dsa-practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
