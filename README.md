@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3797-design-spreadsheet](https://github.com/Rupangkan/dsa-practice/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Rupangkan/dsa-practice/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Rupangkan/dsa-practice/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/Rupangkan/dsa-practice/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Rupangkan/dsa-practice/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Rupangkan/dsa-practice/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/Rupangkan/dsa-practice/tree/master/3863-power-grid-maintenance) |
@@ -628,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-count-number-of-balanced-permutations](https://github.com/Rupangkan/dsa-practice/tree/master/3637-count-number-of-balanced-permutations) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Rupangkan/dsa-practice/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Rupangkan/dsa-practice/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/Rupangkan/dsa-practice/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Rupangkan/dsa-practice/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Trie
 |  |
@@ -767,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Rupangkan/dsa-practice/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Rupangkan/dsa-practice/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/Rupangkan/dsa-practice/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 ## Math
 |  |
 | ------- |
@@ -1097,6 +1100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Rupangkan/dsa-practice/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/Rupangkan/dsa-practice/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 ## Counting
 |  |
 | ------- |
@@ -1139,6 +1143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/Rupangkan/dsa-practice/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rupangkan/dsa-practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3827-implement-router](https://github.com/Rupangkan/dsa-practice/tree/master/3827-implement-router) |
+| [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/Rupangkan/dsa-practice/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -1146,6 +1151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Rupangkan/dsa-practice/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Rupangkan/dsa-practice/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/Rupangkan/dsa-practice/tree/master/2868-continuous-subarrays) |
+| [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/Rupangkan/dsa-practice/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 ## Simulation
 |  |
 | ------- |
