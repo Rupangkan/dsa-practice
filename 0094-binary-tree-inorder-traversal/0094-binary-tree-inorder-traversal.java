@@ -14,7 +14,11 @@
  * }
  */
 class Solution {
-    public List<Integer> inorderTraversal(TreeNode root) {;
+
+    // Optimal Morris Inorder Traversal - 
+    // O(h)
+    // O(1)
+    public List<Integer> optimal(TreeNode root) {
         List<Integer> ans = new ArrayList<>();
         Stack<Integer> st = new Stack<>();
         TreeNode curr = root;
@@ -39,5 +43,23 @@ class Solution {
             }
         }
         return ans;
+    }
+    
+    // Space O(n)
+    public void search(List<Integer> ans, TreeNode root) {
+        if(root == null) return;
+        search(ans, root.left);
+        ans.add(root.val);
+        search(ans, root.right);
+    }
+
+    public List<Integer> better(TreeNode root) {
+        List<Integer> ans = new ArrayList<>();
+        search(ans, root);
+        return ans;
+    }
+
+    public List<Integer> inorderTraversal(TreeNode root) {
+        return better(root);
     }
 }
