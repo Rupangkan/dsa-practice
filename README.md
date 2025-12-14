@@ -486,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Rupangkan/dsa-practice/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Rupangkan/dsa-practice/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Rupangkan/dsa-practice/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/Rupangkan/dsa-practice/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Rupangkan/dsa-practice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Rupangkan/dsa-practice/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Rupangkan/dsa-practice/tree/master/2300-construct-string-with-repeat-limit) |
@@ -622,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Rupangkan/dsa-practice/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2164-two-best-non-overlapping-events](https://github.com/Rupangkan/dsa-practice/tree/master/2164-two-best-non-overlapping-events) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Rupangkan/dsa-practice/tree/master/2205-find-good-days-to-rob-the-bank) |
+| [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/Rupangkan/dsa-practice/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2262-solving-questions-with-brainpower](https://github.com/Rupangkan/dsa-practice/tree/master/2262-solving-questions-with-brainpower) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Rupangkan/dsa-practice/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Rupangkan/dsa-practice/tree/master/2408-number-of-people-aware-of-a-secret) |
@@ -821,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/Rupangkan/dsa-practice/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Rupangkan/dsa-practice/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Rupangkan/dsa-practice/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/Rupangkan/dsa-practice/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Rupangkan/dsa-practice/tree/master/2288-count-operations-to-obtain-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Rupangkan/dsa-practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Rupangkan/dsa-practice/tree/master/2324-find-triangular-sum-of-an-array) |
