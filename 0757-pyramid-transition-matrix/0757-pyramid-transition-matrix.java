@@ -1,0 +1,38 @@
+class Solution {
+    int[][] T;
+    Set<Long> seen;
+
+    public boolean pyramidTransition(String bottom, List<String> allowed) {
+        T = new int[7][7];
+        for (String a : allowed)
+            T[a.charAt(0) - 'A'][a.charAt(1) - 'A'] |= 1 << (a.charAt(2) - 'A');
+
+        seen = new HashSet<>();
+        int n = bottom.length();
+        int[][] A = new int[n][n];
+        int idx = 0;
+        for (char c : bottom.toCharArray())
+            A[n - 1][idx++] = c - 'A';
+
+        return solve(A, 0, n - 1, 0);
+    }
+
+    public boolean solve(int[][] A, long R, int N, int i) {
+        if (N == 1 && i == 1) return true;
+
+        if (i == N) {
+            if (seen.contains(R)) return false;
+            seen.add(R);
+            return solve(A, 0, N - 1, 0);
+        }
+
+        int w = T[A[N][i]][A[N][i + 1]];
+        for (int b = 0; b < 7; b++) {
+            if (((w >> b) & 1) != 0) {
+                A[N - 1][i] = b;
+                if (solve(A, R * 8 + (b + 1), N, i + 1)) return true;
+            }
+        }
+        return false;
+    }
+}
