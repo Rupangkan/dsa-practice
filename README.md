@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Rupangkan/dsa-practice/tree/master/0797-rabbits-in-forest) |
 | [0808-number-of-matching-subsequences](https://github.com/Rupangkan/dsa-practice/tree/master/0808-number-of-matching-subsequences) |
 | [0830-largest-triangle-area](https://github.com/Rupangkan/dsa-practice/tree/master/0830-largest-triangle-area) |
+| [0870-magic-squares-in-grid](https://github.com/Rupangkan/dsa-practice/tree/master/0870-magic-squares-in-grid) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Rupangkan/dsa-practice/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Rupangkan/dsa-practice/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Rupangkan/dsa-practice/tree/master/0940-fruit-into-baskets) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Rupangkan/dsa-practice/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Rupangkan/dsa-practice/tree/master/0797-rabbits-in-forest) |
 | [0808-number-of-matching-subsequences](https://github.com/Rupangkan/dsa-practice/tree/master/0808-number-of-matching-subsequences) |
+| [0870-magic-squares-in-grid](https://github.com/Rupangkan/dsa-practice/tree/master/0870-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/Rupangkan/dsa-practice/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Rupangkan/dsa-practice/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Rupangkan/dsa-practice/tree/master/0952-word-subsets) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Rupangkan/dsa-practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0787-sliding-puzzle](https://github.com/Rupangkan/dsa-practice/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/Rupangkan/dsa-practice/tree/master/0794-swim-in-rising-water) |
+| [0870-magic-squares-in-grid](https://github.com/Rupangkan/dsa-practice/tree/master/0870-magic-squares-in-grid) |
 | [0945-snakes-and-ladders](https://github.com/Rupangkan/dsa-practice/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/Rupangkan/dsa-practice/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Rupangkan/dsa-practice/tree/master/1036-rotting-oranges) |
@@ -836,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/Rupangkan/dsa-practice/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/Rupangkan/dsa-practice/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/Rupangkan/dsa-practice/tree/master/0867-new-21-game) |
+| [0870-magic-squares-in-grid](https://github.com/Rupangkan/dsa-practice/tree/master/0870-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/Rupangkan/dsa-practice/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/Rupangkan/dsa-practice/tree/master/1018-largest-perimeter-triangle) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Rupangkan/dsa-practice/tree/master/1064-smallest-integer-divisible-by-k) |
