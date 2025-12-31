@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-design-movie-rental-system](https://github.com/Rupangkan/dsa-practice/tree/master/2023-design-movie-rental-system) |
 | [2048-build-array-from-permutation](https://github.com/Rupangkan/dsa-practice/tree/master/2048-build-array-from-permutation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Rupangkan/dsa-practice/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/Rupangkan/dsa-practice/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2107-find-unique-binary-string](https://github.com/Rupangkan/dsa-practice/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rupangkan/dsa-practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Rupangkan/dsa-practice/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Rupangkan/dsa-practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rupangkan/dsa-practice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1876-map-of-highest-peak](https://github.com/Rupangkan/dsa-practice/tree/master/1876-map-of-highest-peak) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/Rupangkan/dsa-practice/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2145-grid-game](https://github.com/Rupangkan/dsa-practice/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Rupangkan/dsa-practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Rupangkan/dsa-practice/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Rupangkan/dsa-practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Rupangkan/dsa-practice/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Rupangkan/dsa-practice/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/Rupangkan/dsa-practice/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2164-two-best-non-overlapping-events](https://github.com/Rupangkan/dsa-practice/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Rupangkan/dsa-practice/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Rupangkan/dsa-practice/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -1020,6 +1023,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1558-course-schedule-iv](https://github.com/Rupangkan/dsa-practice/tree/master/1558-course-schedule-iv) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Rupangkan/dsa-practice/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1876-map-of-highest-peak](https://github.com/Rupangkan/dsa-practice/tree/master/1876-map-of-highest-peak) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/Rupangkan/dsa-practice/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2213-find-all-people-with-secret](https://github.com/Rupangkan/dsa-practice/tree/master/2213-find-all-people-with-secret) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Rupangkan/dsa-practice/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Rupangkan/dsa-practice/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -1337,6 +1341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/Rupangkan/dsa-practice/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/Rupangkan/dsa-practice/tree/master/1558-course-schedule-iv) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Rupangkan/dsa-practice/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/Rupangkan/dsa-practice/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2213-find-all-people-with-secret](https://github.com/Rupangkan/dsa-practice/tree/master/2213-find-all-people-with-secret) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Rupangkan/dsa-practice/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Rupangkan/dsa-practice/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -1385,6 +1390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Rupangkan/dsa-practice/tree/master/0794-swim-in-rising-water) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Rupangkan/dsa-practice/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1396-count-servers-that-communicate](https://github.com/Rupangkan/dsa-practice/tree/master/1396-count-servers-that-communicate) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/Rupangkan/dsa-practice/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2213-find-all-people-with-secret](https://github.com/Rupangkan/dsa-practice/tree/master/2213-find-all-people-with-secret) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Rupangkan/dsa-practice/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Rupangkan/dsa-practice/tree/master/2588-maximum-number-of-points-from-grid-queries) |
