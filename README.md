@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-design-movie-rental-system](https://github.com/Rupangkan/dsa-practice/tree/master/2023-design-movie-rental-system) |
 | [2048-build-array-from-permutation](https://github.com/Rupangkan/dsa-practice/tree/master/2048-build-array-from-permutation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Rupangkan/dsa-practice/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2089-maximum-matrix-sum](https://github.com/Rupangkan/dsa-practice/tree/master/2089-maximum-matrix-sum) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Rupangkan/dsa-practice/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2107-find-unique-binary-string](https://github.com/Rupangkan/dsa-practice/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rupangkan/dsa-practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Rupangkan/dsa-practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rupangkan/dsa-practice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1876-map-of-highest-peak](https://github.com/Rupangkan/dsa-practice/tree/master/1876-map-of-highest-peak) |
+| [2089-maximum-matrix-sum](https://github.com/Rupangkan/dsa-practice/tree/master/2089-maximum-matrix-sum) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Rupangkan/dsa-practice/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2145-grid-game](https://github.com/Rupangkan/dsa-practice/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Rupangkan/dsa-practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -941,6 +943,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/Rupangkan/dsa-practice/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Rupangkan/dsa-practice/tree/master/1917-maximum-average-pass-ratio) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Rupangkan/dsa-practice/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2089-maximum-matrix-sum](https://github.com/Rupangkan/dsa-practice/tree/master/2089-maximum-matrix-sum) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Rupangkan/dsa-practice/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Rupangkan/dsa-practice/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Rupangkan/dsa-practice/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
