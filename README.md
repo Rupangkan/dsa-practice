@@ -1027,6 +1027,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Rupangkan/dsa-practice/tree/master/0820-find-eventual-safe-states) |
 | [0945-snakes-and-ladders](https://github.com/Rupangkan/dsa-practice/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/Rupangkan/dsa-practice/tree/master/1036-rotting-oranges) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Rupangkan/dsa-practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rupangkan/dsa-practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1396-count-servers-that-communicate](https://github.com/Rupangkan/dsa-practice/tree/master/1396-count-servers-that-communicate) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Rupangkan/dsa-practice/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -1324,6 +1325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Rupangkan/dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Rupangkan/dsa-practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Rupangkan/dsa-practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Rupangkan/dsa-practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rupangkan/dsa-practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Rupangkan/dsa-practice/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Rupangkan/dsa-practice/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -1347,6 +1349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Rupangkan/dsa-practice/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/Rupangkan/dsa-practice/tree/master/0820-find-eventual-safe-states) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Rupangkan/dsa-practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Rupangkan/dsa-practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rupangkan/dsa-practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1396-count-servers-that-communicate](https://github.com/Rupangkan/dsa-practice/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/Rupangkan/dsa-practice/tree/master/1558-course-schedule-iv) |
@@ -1373,6 +1376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Rupangkan/dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Rupangkan/dsa-practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Rupangkan/dsa-practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Rupangkan/dsa-practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rupangkan/dsa-practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Rupangkan/dsa-practice/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Rupangkan/dsa-practice/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
