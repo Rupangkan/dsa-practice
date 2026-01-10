@@ -486,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Rupangkan/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/Rupangkan/dsa-practice/tree/master/0474-ones-and-zeroes) |
 | [0647-palindromic-substrings](https://github.com/Rupangkan/dsa-practice/tree/master/0647-palindromic-substrings) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Rupangkan/dsa-practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0757-pyramid-transition-matrix](https://github.com/Rupangkan/dsa-practice/tree/master/0757-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/Rupangkan/dsa-practice/tree/master/0768-partition-labels) |
 | [0808-number-of-matching-subsequences](https://github.com/Rupangkan/dsa-practice/tree/master/0808-number-of-matching-subsequences) |
@@ -634,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Rupangkan/dsa-practice/tree/master/0494-target-sum) |
 | [0576-out-of-boundary-paths](https://github.com/Rupangkan/dsa-practice/tree/master/0576-out-of-boundary-paths) |
 | [0647-palindromic-substrings](https://github.com/Rupangkan/dsa-practice/tree/master/0647-palindromic-substrings) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Rupangkan/dsa-practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0747-min-cost-climbing-stairs](https://github.com/Rupangkan/dsa-practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/Rupangkan/dsa-practice/tree/master/0806-domino-and-tromino-tiling) |
 | [0808-number-of-matching-subsequences](https://github.com/Rupangkan/dsa-practice/tree/master/0808-number-of-matching-subsequences) |
