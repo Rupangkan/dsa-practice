@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3291-find-if-array-can-be-sorted](https://github.com/Rupangkan/dsa-practice/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Rupangkan/dsa-practice/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Rupangkan/dsa-practice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Rupangkan/dsa-practice/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Rupangkan/dsa-practice/tree/master/3334-apple-redistribution-into-boxes) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Rupangkan/dsa-practice/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Rupangkan/dsa-practice/tree/master/3351-maximize-happiness-of-selected-children) |
@@ -911,6 +912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Rupangkan/dsa-practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Rupangkan/dsa-practice/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Rupangkan/dsa-practice/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3336-water-bottles-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/Rupangkan/dsa-practice/tree/master/3462-vowels-game-in-a-string) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Rupangkan/dsa-practice/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -1514,6 +1516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1395-minimum-time-visiting-all-points](https://github.com/Rupangkan/dsa-practice/tree/master/1395-minimum-time-visiting-all-points) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Rupangkan/dsa-practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Rupangkan/dsa-practice/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3886-count-number-of-trapezoids-i](https://github.com/Rupangkan/dsa-practice/tree/master/3886-count-number-of-trapezoids-i) |
 | [3897-count-number-of-trapezoids-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3897-count-number-of-trapezoids-ii) |
 ## Game Theory
