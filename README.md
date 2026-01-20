@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3578-construct-2d-grid-matching-graph-layout](https://github.com/Rupangkan/dsa-practice/tree/master/3578-construct-2d-grid-matching-graph-layout) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rupangkan/dsa-practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3605-construct-the-minimum-bitwise-array-i](https://github.com/Rupangkan/dsa-practice/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Rupangkan/dsa-practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Rupangkan/dsa-practice/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Rupangkan/dsa-practice/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -1142,6 +1143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rupangkan/dsa-practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Rupangkan/dsa-practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3605-construct-the-minimum-bitwise-array-i](https://github.com/Rupangkan/dsa-practice/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Rupangkan/dsa-practice/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Rupangkan/dsa-practice/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Rupangkan/dsa-practice/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
