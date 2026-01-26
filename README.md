@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Rupangkan/dsa-practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1284-four-divisors](https://github.com/Rupangkan/dsa-practice/tree/master/1284-four-divisors) |
 | [1293-three-consecutive-odds](https://github.com/Rupangkan/dsa-practice/tree/master/1293-three-consecutive-odds) |
+| [1306-minimum-absolute-difference](https://github.com/Rupangkan/dsa-practice/tree/master/1306-minimum-absolute-difference) |
 | [1311-largest-magic-square](https://github.com/Rupangkan/dsa-practice/tree/master/1311-largest-magic-square) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Rupangkan/dsa-practice/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Rupangkan/dsa-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -739,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-number-of-matching-subsequences](https://github.com/Rupangkan/dsa-practice/tree/master/0808-number-of-matching-subsequences) |
 | [0900-reordered-power-of-2](https://github.com/Rupangkan/dsa-practice/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/Rupangkan/dsa-practice/tree/master/1018-largest-perimeter-triangle) |
+| [1306-minimum-absolute-difference](https://github.com/Rupangkan/dsa-practice/tree/master/1306-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Rupangkan/dsa-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Rupangkan/dsa-practice/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Rupangkan/dsa-practice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
