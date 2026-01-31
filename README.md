@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/Rupangkan/dsa-practice/tree/master/0679-24-game) |
 | [0713-subarray-product-less-than-k](https://github.com/Rupangkan/dsa-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Rupangkan/dsa-practice/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Rupangkan/dsa-practice/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/Rupangkan/dsa-practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Rupangkan/dsa-practice/tree/master/0759-set-intersection-size-at-least-two) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Rupangkan/dsa-practice/tree/master/0780-max-chunks-to-make-sorted) |
@@ -598,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Rupangkan/dsa-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/Rupangkan/dsa-practice/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Rupangkan/dsa-practice/tree/master/0713-subarray-product-less-than-k) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Rupangkan/dsa-practice/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Rupangkan/dsa-practice/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Rupangkan/dsa-practice/tree/master/0794-swim-in-rising-water) |
 | [0808-number-of-matching-subsequences](https://github.com/Rupangkan/dsa-practice/tree/master/0808-number-of-matching-subsequences) |
