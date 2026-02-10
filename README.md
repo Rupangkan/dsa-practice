@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3956-trionic-array-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3956-trionic-array-ii) |
 | [3958-minimum-removals-to-balance-array](https://github.com/Rupangkan/dsa-practice/tree/master/3958-minimum-removals-to-balance-array) |
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Rupangkan/dsa-practice/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
+| [4045-longest-balanced-subarray-i](https://github.com/Rupangkan/dsa-practice/tree/master/4045-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3886-count-number-of-trapezoids-i](https://github.com/Rupangkan/dsa-practice/tree/master/3886-count-number-of-trapezoids-i) |
 | [3897-count-number-of-trapezoids-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3897-count-number-of-trapezoids-ii) |
 | [3934-coupon-code-validator](https://github.com/Rupangkan/dsa-practice/tree/master/3934-coupon-code-validator) |
+| [4045-longest-balanced-subarray-i](https://github.com/Rupangkan/dsa-practice/tree/master/4045-longest-balanced-subarray-i) |
 ## Graph
 |  |
 | ------- |
@@ -889,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Rupangkan/dsa-practice/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/Rupangkan/dsa-practice/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Rupangkan/dsa-practice/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
+| [4045-longest-balanced-subarray-i](https://github.com/Rupangkan/dsa-practice/tree/master/4045-longest-balanced-subarray-i) |
 ## Math
 |  |
 | ------- |
@@ -1562,6 +1565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Rupangkan/dsa-practice/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Rupangkan/dsa-practice/tree/master/3791-fruits-into-baskets-iii) |
+| [4045-longest-balanced-subarray-i](https://github.com/Rupangkan/dsa-practice/tree/master/4045-longest-balanced-subarray-i) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -1607,6 +1611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Rupangkan/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/Rupangkan/dsa-practice/tree/master/0493-reverse-pairs) |
 | [1285-balance-a-binary-search-tree](https://github.com/Rupangkan/dsa-practice/tree/master/1285-balance-a-binary-search-tree) |
+| [4045-longest-balanced-subarray-i](https://github.com/Rupangkan/dsa-practice/tree/master/4045-longest-balanced-subarray-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
