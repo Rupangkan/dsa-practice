@@ -430,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3934-coupon-code-validator](https://github.com/Rupangkan/dsa-practice/tree/master/3934-coupon-code-validator) |
 | [4045-longest-balanced-subarray-i](https://github.com/Rupangkan/dsa-practice/tree/master/4045-longest-balanced-subarray-i) |
 | [4047-longest-balanced-subarray-ii](https://github.com/Rupangkan/dsa-practice/tree/master/4047-longest-balanced-subarray-ii) |
+| [4055-longest-balanced-substring-i](https://github.com/Rupangkan/dsa-practice/tree/master/4055-longest-balanced-substring-i) |
 ## Graph
 |  |
 | ------- |
@@ -599,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3797-design-spreadsheet](https://github.com/Rupangkan/dsa-practice/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Rupangkan/dsa-practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3934-coupon-code-validator](https://github.com/Rupangkan/dsa-practice/tree/master/3934-coupon-code-validator) |
+| [4055-longest-balanced-substring-i](https://github.com/Rupangkan/dsa-practice/tree/master/4055-longest-balanced-substring-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -1284,6 +1286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Rupangkan/dsa-practice/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Rupangkan/dsa-practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3885-count-special-triplets](https://github.com/Rupangkan/dsa-practice/tree/master/3885-count-special-triplets) |
+| [4055-longest-balanced-substring-i](https://github.com/Rupangkan/dsa-practice/tree/master/4055-longest-balanced-substring-i) |
 ## Queue
 |  |
 | ------- |
@@ -1560,6 +1563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Rupangkan/dsa-practice/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Rupangkan/dsa-practice/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [4055-longest-balanced-substring-i](https://github.com/Rupangkan/dsa-practice/tree/master/4055-longest-balanced-substring-i) |
 ## Segment Tree
 |  |
 | ------- |
