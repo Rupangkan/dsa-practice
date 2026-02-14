@@ -685,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/Rupangkan/dsa-practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/Rupangkan/dsa-practice/tree/master/0806-domino-and-tromino-tiling) |
 | [0808-number-of-matching-subsequences](https://github.com/Rupangkan/dsa-practice/tree/master/0808-number-of-matching-subsequences) |
+| [0815-champagne-tower](https://github.com/Rupangkan/dsa-practice/tree/master/0815-champagne-tower) |
 | [0826-soup-servings](https://github.com/Rupangkan/dsa-practice/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Rupangkan/dsa-practice/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/Rupangkan/dsa-practice/tree/master/0868-push-dominoes) |
