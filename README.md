@@ -511,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Rupangkan/dsa-practice/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Rupangkan/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Rupangkan/dsa-practice/tree/master/0038-count-and-say) |
+| [0067-add-binary](https://github.com/Rupangkan/dsa-practice/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Rupangkan/dsa-practice/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Rupangkan/dsa-practice/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/Rupangkan/dsa-practice/tree/master/0131-palindrome-partitioning) |
@@ -910,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Rupangkan/dsa-practice/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Rupangkan/dsa-practice/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Rupangkan/dsa-practice/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Rupangkan/dsa-practice/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Rupangkan/dsa-practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/Rupangkan/dsa-practice/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Rupangkan/dsa-practice/tree/master/0342-power-of-four) |
@@ -1152,6 +1154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Rupangkan/dsa-practice/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Rupangkan/dsa-practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Rupangkan/dsa-practice/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Rupangkan/dsa-practice/tree/master/0136-single-number) |
@@ -1316,6 +1319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Rupangkan/dsa-practice/tree/master/0067-add-binary) |
 | [1642-water-bottles](https://github.com/Rupangkan/dsa-practice/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/Rupangkan/dsa-practice/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rupangkan/dsa-practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
