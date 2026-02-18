@@ -1164,6 +1164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Rupangkan/dsa-practice/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Rupangkan/dsa-practice/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/Rupangkan/dsa-practice/tree/master/0401-binary-watch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Rupangkan/dsa-practice/tree/master/0693-binary-number-with-alternating-bits) |
 | [0757-pyramid-transition-matrix](https://github.com/Rupangkan/dsa-practice/tree/master/0757-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Rupangkan/dsa-practice/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Rupangkan/dsa-practice/tree/master/1071-binary-prefix-divisible-by-5) |
