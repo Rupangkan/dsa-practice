@@ -523,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Rupangkan/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/Rupangkan/dsa-practice/tree/master/0474-ones-and-zeroes) |
 | [0647-palindromic-substrings](https://github.com/Rupangkan/dsa-practice/tree/master/0647-palindromic-substrings) |
+| [0696-count-binary-substrings](https://github.com/Rupangkan/dsa-practice/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Rupangkan/dsa-practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0757-pyramid-transition-matrix](https://github.com/Rupangkan/dsa-practice/tree/master/0757-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/Rupangkan/dsa-practice/tree/master/0768-partition-labels) |
@@ -1075,6 +1076,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Rupangkan/dsa-practice/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/Rupangkan/dsa-practice/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/Rupangkan/dsa-practice/tree/master/0647-palindromic-substrings) |
+| [0696-count-binary-substrings](https://github.com/Rupangkan/dsa-practice/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/Rupangkan/dsa-practice/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Rupangkan/dsa-practice/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/Rupangkan/dsa-practice/tree/master/0908-middle-of-the-linked-list) |
