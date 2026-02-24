@@ -1428,6 +1428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Rupangkan/dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Rupangkan/dsa-practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rupangkan/dsa-practice/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Rupangkan/dsa-practice/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Rupangkan/dsa-practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Rupangkan/dsa-practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rupangkan/dsa-practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -1456,6 +1457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Rupangkan/dsa-practice/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/Rupangkan/dsa-practice/tree/master/0820-find-eventual-safe-states) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rupangkan/dsa-practice/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Rupangkan/dsa-practice/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Rupangkan/dsa-practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Rupangkan/dsa-practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rupangkan/dsa-practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -1487,6 +1489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Rupangkan/dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Rupangkan/dsa-practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rupangkan/dsa-practice/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Rupangkan/dsa-practice/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Rupangkan/dsa-practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Rupangkan/dsa-practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rupangkan/dsa-practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
