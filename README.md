@@ -942,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Rupangkan/dsa-practice/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Rupangkan/dsa-practice/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1642-water-bottles](https://github.com/Rupangkan/dsa-practice/tree/master/1642-water-bottles) |
+| [1800-concatenation-of-consecutive-binary-numbers](https://github.com/Rupangkan/dsa-practice/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Rupangkan/dsa-practice/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rupangkan/dsa-practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2037-count-square-sum-triples](https://github.com/Rupangkan/dsa-practice/tree/master/2037-count-square-sum-triples) |
@@ -1181,6 +1182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Rupangkan/dsa-practice/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Rupangkan/dsa-practice/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Rupangkan/dsa-practice/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [1800-concatenation-of-consecutive-binary-numbers](https://github.com/Rupangkan/dsa-practice/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [1940-maximum-xor-for-each-query](https://github.com/Rupangkan/dsa-practice/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rupangkan/dsa-practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rupangkan/dsa-practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -1338,6 +1340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Rupangkan/dsa-practice/tree/master/0067-add-binary) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Rupangkan/dsa-practice/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1642-water-bottles](https://github.com/Rupangkan/dsa-practice/tree/master/1642-water-bottles) |
+| [1800-concatenation-of-consecutive-binary-numbers](https://github.com/Rupangkan/dsa-practice/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [2048-build-array-from-permutation](https://github.com/Rupangkan/dsa-practice/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rupangkan/dsa-practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Rupangkan/dsa-practice/tree/master/2169-simple-bank-system) |
