@@ -562,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/Rupangkan/dsa-practice/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Rupangkan/dsa-practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Rupangkan/dsa-practice/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Rupangkan/dsa-practice/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rupangkan/dsa-practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/Rupangkan/dsa-practice/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rupangkan/dsa-practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -721,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Rupangkan/dsa-practice/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Rupangkan/dsa-practice/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Rupangkan/dsa-practice/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Rupangkan/dsa-practice/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Rupangkan/dsa-practice/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Rupangkan/dsa-practice/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2164-two-best-non-overlapping-events](https://github.com/Rupangkan/dsa-practice/tree/master/2164-two-best-non-overlapping-events) |
@@ -1265,6 +1267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rupangkan/dsa-practice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/Rupangkan/dsa-practice/tree/master/1813-maximum-erasure-value) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Rupangkan/dsa-practice/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Rupangkan/dsa-practice/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Rupangkan/dsa-practice/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Rupangkan/dsa-practice/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Rupangkan/dsa-practice/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
