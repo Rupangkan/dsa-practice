@@ -1194,6 +1194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Rupangkan/dsa-practice/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0899-binary-gap](https://github.com/Rupangkan/dsa-practice/tree/master/0899-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Rupangkan/dsa-practice/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1054-complement-of-base-10-integer](https://github.com/Rupangkan/dsa-practice/tree/master/1054-complement-of-base-10-integer) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Rupangkan/dsa-practice/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Rupangkan/dsa-practice/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Rupangkan/dsa-practice/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
