@@ -957,6 +957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Rupangkan/dsa-practice/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Rupangkan/dsa-practice/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1642-water-bottles](https://github.com/Rupangkan/dsa-practice/tree/master/1642-water-bottles) |
+| [1728-fancy-sequence](https://github.com/Rupangkan/dsa-practice/tree/master/1728-fancy-sequence) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/Rupangkan/dsa-practice/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Rupangkan/dsa-practice/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rupangkan/dsa-practice/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -1623,6 +1624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Rupangkan/dsa-practice/tree/master/0493-reverse-pairs) |
+| [1728-fancy-sequence](https://github.com/Rupangkan/dsa-practice/tree/master/1728-fancy-sequence) |
 | [3775-separate-squares-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3775-separate-squares-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Rupangkan/dsa-practice/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3790-fruits-into-baskets-ii) |
@@ -1658,6 +1660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Rupangkan/dsa-practice/tree/master/0295-find-median-from-data-stream) |
 | [0460-lfu-cache](https://github.com/Rupangkan/dsa-practice/tree/master/0460-lfu-cache) |
 | [0937-online-stock-span](https://github.com/Rupangkan/dsa-practice/tree/master/0937-online-stock-span) |
+| [1728-fancy-sequence](https://github.com/Rupangkan/dsa-practice/tree/master/1728-fancy-sequence) |
 | [2023-design-movie-rental-system](https://github.com/Rupangkan/dsa-practice/tree/master/2023-design-movie-rental-system) |
 | [2169-simple-bank-system](https://github.com/Rupangkan/dsa-practice/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/Rupangkan/dsa-practice/tree/master/2429-design-a-food-rating-system) |
