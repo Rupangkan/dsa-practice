@@ -622,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Rupangkan/dsa-practice/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Rupangkan/dsa-practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3770-lexicographically-smallest-generated-string](https://github.com/Rupangkan/dsa-practice/tree/master/3770-lexicographically-smallest-generated-string) |
 | [3797-design-spreadsheet](https://github.com/Rupangkan/dsa-practice/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Rupangkan/dsa-practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3934-coupon-code-validator](https://github.com/Rupangkan/dsa-practice/tree/master/3934-coupon-code-validator) |
@@ -1090,6 +1091,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Rupangkan/dsa-practice/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Rupangkan/dsa-practice/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Rupangkan/dsa-practice/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3770-lexicographically-smallest-generated-string](https://github.com/Rupangkan/dsa-practice/tree/master/3770-lexicographically-smallest-generated-string) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Rupangkan/dsa-practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Rupangkan/dsa-practice/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/Rupangkan/dsa-practice/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
@@ -1413,6 +1415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Rupangkan/dsa-practice/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Rupangkan/dsa-practice/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Rupangkan/dsa-practice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3770-lexicographically-smallest-generated-string](https://github.com/Rupangkan/dsa-practice/tree/master/3770-lexicographically-smallest-generated-string) |
 ## Ordered Set
 |  |
 | ------- |
