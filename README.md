@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Rupangkan/dsa-practice/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Rupangkan/dsa-practice/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Rupangkan/dsa-practice/tree/master/2792-neighboring-bitwise-xor) |
+| [2846-robot-collisions](https://github.com/Rupangkan/dsa-practice/tree/master/2846-robot-collisions) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Rupangkan/dsa-practice/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/Rupangkan/dsa-practice/tree/master/2868-continuous-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Rupangkan/dsa-practice/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -825,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/Rupangkan/dsa-practice/tree/master/2681-put-marbles-in-bags) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Rupangkan/dsa-practice/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Rupangkan/dsa-practice/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2846-robot-collisions](https://github.com/Rupangkan/dsa-practice/tree/master/2846-robot-collisions) |
 | [2887-sort-vowels-in-a-string](https://github.com/Rupangkan/dsa-practice/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Rupangkan/dsa-practice/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Rupangkan/dsa-practice/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -1397,6 +1399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/Rupangkan/dsa-practice/tree/master/2479-meeting-rooms-iii) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Rupangkan/dsa-practice/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Rupangkan/dsa-practice/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2846-robot-collisions](https://github.com/Rupangkan/dsa-practice/tree/master/2846-robot-collisions) |
 | [3336-water-bottles-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3336-water-bottles-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Rupangkan/dsa-practice/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Rupangkan/dsa-practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -1453,6 +1456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Rupangkan/dsa-practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2317-count-collisions-on-a-road](https://github.com/Rupangkan/dsa-practice/tree/master/2317-count-collisions-on-a-road) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Rupangkan/dsa-practice/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2846-robot-collisions](https://github.com/Rupangkan/dsa-practice/tree/master/2846-robot-collisions) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Rupangkan/dsa-practice/tree/master/3001-apply-operations-to-maximize-score) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Rupangkan/dsa-practice/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Rupangkan/dsa-practice/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
