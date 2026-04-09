@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3956-trionic-array-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3956-trionic-array-ii) |
 | [3958-minimum-removals-to-balance-array](https://github.com/Rupangkan/dsa-practice/tree/master/3958-minimum-removals-to-balance-array) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/Rupangkan/dsa-practice/tree/master/3974-xor-after-range-multiplication-queries-i) |
+| [3975-xor-after-range-multiplication-queries-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3975-xor-after-range-multiplication-queries-ii) |
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Rupangkan/dsa-practice/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/Rupangkan/dsa-practice/tree/master/3982-maximum-walls-destroyed-by-robots) |
 | [4045-longest-balanced-subarray-i](https://github.com/Rupangkan/dsa-practice/tree/master/4045-longest-balanced-subarray-i) |
@@ -1721,6 +1722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-special-binary-string](https://github.com/Rupangkan/dsa-practice/tree/master/0763-special-binary-string) |
 | [1285-balance-a-binary-search-tree](https://github.com/Rupangkan/dsa-practice/tree/master/1285-balance-a-binary-search-tree) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/Rupangkan/dsa-practice/tree/master/3974-xor-after-range-multiplication-queries-i) |
+| [3975-xor-after-range-multiplication-queries-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3975-xor-after-range-multiplication-queries-ii) |
 | [4045-longest-balanced-subarray-i](https://github.com/Rupangkan/dsa-practice/tree/master/4045-longest-balanced-subarray-i) |
 | [4047-longest-balanced-subarray-ii](https://github.com/Rupangkan/dsa-practice/tree/master/4047-longest-balanced-subarray-ii) |
 ## Binary Indexed Tree
