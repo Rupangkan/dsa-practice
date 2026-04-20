@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/Rupangkan/dsa-practice/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Rupangkan/dsa-practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Rupangkan/dsa-practice/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2199-two-furthest-houses-with-different-colors](https://github.com/Rupangkan/dsa-practice/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Rupangkan/dsa-practice/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Rupangkan/dsa-practice/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Rupangkan/dsa-practice/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -1098,6 +1099,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Rupangkan/dsa-practice/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2089-maximum-matrix-sum](https://github.com/Rupangkan/dsa-practice/tree/master/2089-maximum-matrix-sum) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Rupangkan/dsa-practice/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2199-two-furthest-houses-with-different-colors](https://github.com/Rupangkan/dsa-practice/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Rupangkan/dsa-practice/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Rupangkan/dsa-practice/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/Rupangkan/dsa-practice/tree/master/2263-maximum-running-time-of-n-computers) |
