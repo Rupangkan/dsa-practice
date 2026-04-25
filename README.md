@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3763-separate-squares-i](https://github.com/Rupangkan/dsa-practice/tree/master/3763-separate-squares-i) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Rupangkan/dsa-practice/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3775-separate-squares-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3775-separate-squares-ii) |
+| [3781-maximize-the-distance-between-points-on-a-square](https://github.com/Rupangkan/dsa-practice/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Rupangkan/dsa-practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Rupangkan/dsa-practice/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3790-fruits-into-baskets-ii) |
@@ -706,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3750-closest-equal-element-queries](https://github.com/Rupangkan/dsa-practice/tree/master/3750-closest-equal-element-queries) |
 | [3763-separate-squares-i](https://github.com/Rupangkan/dsa-practice/tree/master/3763-separate-squares-i) |
 | [3775-separate-squares-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3775-separate-squares-ii) |
+| [3781-maximize-the-distance-between-points-on-a-square](https://github.com/Rupangkan/dsa-practice/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 | [3790-fruits-into-baskets-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Rupangkan/dsa-practice/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/Rupangkan/dsa-practice/tree/master/3827-implement-router) |
@@ -887,6 +889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Rupangkan/dsa-practice/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3721-count-mentions-per-user](https://github.com/Rupangkan/dsa-practice/tree/master/3721-count-mentions-per-user) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Rupangkan/dsa-practice/tree/master/3748-sort-matrix-by-diagonals) |
+| [3781-maximize-the-distance-between-points-on-a-square](https://github.com/Rupangkan/dsa-practice/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 | [3819-count-covered-buildings](https://github.com/Rupangkan/dsa-practice/tree/master/3819-count-covered-buildings) |
 | [3934-coupon-code-validator](https://github.com/Rupangkan/dsa-practice/tree/master/3934-coupon-code-validator) |
 | [3958-minimum-removals-to-balance-array](https://github.com/Rupangkan/dsa-practice/tree/master/3958-minimum-removals-to-balance-array) |
@@ -1064,6 +1067,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Rupangkan/dsa-practice/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Rupangkan/dsa-practice/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Rupangkan/dsa-practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3781-maximize-the-distance-between-points-on-a-square](https://github.com/Rupangkan/dsa-practice/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 | [3830-find-closest-person](https://github.com/Rupangkan/dsa-practice/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Rupangkan/dsa-practice/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Rupangkan/dsa-practice/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -1716,6 +1720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Rupangkan/dsa-practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Rupangkan/dsa-practice/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3781-maximize-the-distance-between-points-on-a-square](https://github.com/Rupangkan/dsa-practice/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 | [3886-count-number-of-trapezoids-i](https://github.com/Rupangkan/dsa-practice/tree/master/3886-count-number-of-trapezoids-i) |
 | [3897-count-number-of-trapezoids-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3897-count-number-of-trapezoids-ii) |
 ## Game Theory
