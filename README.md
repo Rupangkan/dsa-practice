@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Rupangkan/dsa-practice/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rupangkan/dsa-practice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Rupangkan/dsa-practice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Rupangkan/dsa-practice/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/Rupangkan/dsa-practice/tree/master/1524-string-matching-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Rupangkan/dsa-practice/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/Rupangkan/dsa-practice/tree/master/1569-max-dot-product-of-two-subsequences) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Rupangkan/dsa-practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Rupangkan/dsa-practice/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rupangkan/dsa-practice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Rupangkan/dsa-practice/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Rupangkan/dsa-practice/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Rupangkan/dsa-practice/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Rupangkan/dsa-practice/tree/master/1704-special-positions-in-a-binary-matrix) |
@@ -1202,6 +1204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rupangkan/dsa-practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1396-count-servers-that-communicate](https://github.com/Rupangkan/dsa-practice/tree/master/1396-count-servers-that-communicate) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Rupangkan/dsa-practice/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Rupangkan/dsa-practice/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/Rupangkan/dsa-practice/tree/master/1558-course-schedule-iv) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Rupangkan/dsa-practice/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Rupangkan/dsa-practice/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -1570,6 +1573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1285-balance-a-binary-search-tree](https://github.com/Rupangkan/dsa-practice/tree/master/1285-balance-a-binary-search-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Rupangkan/dsa-practice/tree/master/1396-count-servers-that-communicate) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Rupangkan/dsa-practice/tree/master/1465-maximum-product-of-splitted-binary-tree) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Rupangkan/dsa-practice/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/Rupangkan/dsa-practice/tree/master/1558-course-schedule-iv) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Rupangkan/dsa-practice/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Rupangkan/dsa-practice/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -1836,6 +1840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Rupangkan/dsa-practice/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Rupangkan/dsa-practice/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/Rupangkan/dsa-practice/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/Rupangkan/dsa-practice/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
