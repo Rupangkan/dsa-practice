@@ -1,28 +1,30 @@
 class Solution {
-    public int minOperations(int[][] grid, int x) {
-        List<Integer> nArr = new ArrayList<>();
-        int ans = 0, n = grid.length;
 
-        for(int i = 0; i<n; i++) {
-            for(int j = 0; j<grid[0].length; j++) {
-                if(grid[i][j] % x != grid[0][0] % x) return -1;
-                nArr.add(grid[i][j]);
+    public int minOperations(int[][] grid, int x) {
+        List<Integer> a = new ArrayList<>();
+        int base = grid[0][0] % x;
+
+        for (int i = 0; i < grid.length; i++) {
+            for (int j = 0; j < grid[0].length; j++) {
+                if (grid[i][j] % x != base) return -1;
+                a.add(grid[i][j]);
             }
         }
 
-        Collections.sort(nArr);
+        Collections.sort(a);
 
-        int len = nArr.size(), pInd = 0, sInd = len - 1;
+        int n = a.size();
+        int l = 0, r = n - 1, ans = 0;
 
-        while(pInd < sInd) {
-            if(pInd < len - sInd - 1) {
-                int ops = ((pInd + 1) * (nArr.get(pInd + 1) - nArr.get(pInd))) / x;
-                ans += ops;
-                pInd++;
+        while (l < r) {
+            if (l < n - r - 1) {
+                int d = a.get(l + 1) - a.get(l);
+                ans += (l + 1) * (d / x);
+                l++;
             } else {
-                int ops = ((len - sInd) * (nArr.get(sInd) - nArr.get(sInd - 1))) / x;
-                ans += ops;
-                sInd--;
+                int d = a.get(r) - a.get(r - 1);
+                ans += (n - r) * (d / x);
+                r--;
             }
         }
 
