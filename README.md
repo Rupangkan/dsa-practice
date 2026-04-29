@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Rupangkan/dsa-practice/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Rupangkan/dsa-practice/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3470-maximum-score-from-grid-operations](https://github.com/Rupangkan/dsa-practice/tree/master/3470-maximum-score-from-grid-operations) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rupangkan/dsa-practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Rupangkan/dsa-practice/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/Rupangkan/dsa-practice/tree/master/3487-find-maximum-removals-from-source-string) |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Rupangkan/dsa-practice/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Rupangkan/dsa-practice/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3470-maximum-score-from-grid-operations](https://github.com/Rupangkan/dsa-practice/tree/master/3470-maximum-score-from-grid-operations) |
 | [3578-construct-2d-grid-matching-graph-layout](https://github.com/Rupangkan/dsa-practice/tree/master/3578-construct-2d-grid-matching-graph-layout) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Rupangkan/dsa-practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -795,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3406-find-all-possible-stable-binary-arrays-i](https://github.com/Rupangkan/dsa-practice/tree/master/3406-find-all-possible-stable-binary-arrays-i) |
 | [3407-find-all-possible-stable-binary-arrays-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3407-find-all-possible-stable-binary-arrays-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Rupangkan/dsa-practice/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3470-maximum-score-from-grid-operations](https://github.com/Rupangkan/dsa-practice/tree/master/3470-maximum-score-from-grid-operations) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/Rupangkan/dsa-practice/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Rupangkan/dsa-practice/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -968,6 +971,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3406-find-all-possible-stable-binary-arrays-i](https://github.com/Rupangkan/dsa-practice/tree/master/3406-find-all-possible-stable-binary-arrays-i) |
 | [3407-find-all-possible-stable-binary-arrays-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3407-find-all-possible-stable-binary-arrays-ii) |
 | [3427-special-array-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3427-special-array-ii) |
+| [3470-maximum-score-from-grid-operations](https://github.com/Rupangkan/dsa-practice/tree/master/3470-maximum-score-from-grid-operations) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rupangkan/dsa-practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Rupangkan/dsa-practice/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3618-find-the-original-typed-string-ii) |
