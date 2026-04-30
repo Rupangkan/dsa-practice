@@ -1,6 +1,4 @@
 class MinStack {
-    // Better would be to use a pair and store value, minimum 
-
     Stack<Long> st;
     Long mini;
 
@@ -10,35 +8,38 @@ class MinStack {
     }
     
     public void push(int val) {
-        long value = (long)val;
         if(st.isEmpty()) {
-            mini = value;
-            st.push(value);
+            mini = (long)val;
+            st.push((long)val);
         } else {
-            if(value < mini) {
-                st.push(2 * value - mini);
-                mini = value;
+            if(val > mini) {
+                st.push((long)val);
             } else {
-                st.push(value);
+                st.push((long)2*val-mini);
+                mini = (long)val;
             }
         }
     }
     
     public void pop() {
         if(st.isEmpty()) return;
-        long val = st.pop();
-        if(val < mini) {
-            mini = 2 * mini - val;
+        long top = st.peek();
+        st.pop();
+
+        if(top < mini) {
+            mini = (long)2 * mini - top;
         }
     }
     
     public int top() {
         if(st.isEmpty()) return -1;
-        long val = st.peek();
-        if(val < mini) {
+        long top = st.peek();
+
+        if(top < mini) {
             return mini.intValue();
+        } else {
+            return (int)top;
         }
-        return (int) val;
     }
     
     public int getMin() {
