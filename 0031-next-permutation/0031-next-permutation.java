@@ -18,23 +18,24 @@ class Solution {
         int n = nums.length;
         int idx = -1;
 
+        // 1,2,3
+
         for(int i = n-1; i>0; i--) {
-            if(nums[i-1] < nums[i]) {
+            if(nums[i] > nums[i-1]) {
                 idx = i-1;
                 break;
             }
         }
-        // 1 3 2 5 4 3 2
-        if(idx == -1) {
-            reverse(nums, 0, n-1);
-        } else {
+        // 1234541
+        if(idx == -1) reverse(nums, 0, n-1);
+        else {
             for(int i = n-1; i>idx; i--) {
                 if(nums[i] > nums[idx]) {
                     swap(nums, i, idx);
                     break;
                 }
             }
-            reverse(nums, idx + 1, n-1);
+            reverse(nums, idx+1, n-1);
         }
     }
 }
