@@ -5,18 +5,12 @@ class Solution {
 
         for(int i = 0; i<n; i++) {
             char curr = s.charAt(i);
-            if(curr == ')' || curr == '}' || curr == ']') {
-                if(st.isEmpty()) return false;
-                if(curr == ')') {
-                    if(st.peek() != '(') return false;
-                } else if(curr == '}') {
-                    if(st.peek() != '{') return false;
-                } else if(curr == ']') {
-                    if(st.peek() != '[') return false;
-                }
-                st.pop();
+            if(curr == '(' || curr == '{' || curr == '[') {
+                st.push(curr);
             } else {
-                st.add(curr);
+                if(st.isEmpty()) return false;
+                char top = st.pop();
+                if((curr == ')' && top != '(') || (curr == '}' && top != '{') || (curr == ']' && top != '[')) return false;
             }
         }
         return st.isEmpty();
