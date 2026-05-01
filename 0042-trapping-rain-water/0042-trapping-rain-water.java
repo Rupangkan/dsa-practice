@@ -5,7 +5,7 @@ class Solution {
         int leftMax = 0, rightMax = 0;
         int count = 0;
 
-        while(low < high) {
+        while(low<high) {
             if(h[low] <= h[high]) {
                 if(leftMax > h[low]) {
                     count += leftMax - h[low];
@@ -22,7 +22,6 @@ class Solution {
                 high--;
             }
         }
-
         return count;
     }
 }
