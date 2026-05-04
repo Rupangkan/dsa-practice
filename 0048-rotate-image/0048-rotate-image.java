@@ -9,7 +9,7 @@ class Solution {
                 mat[j][i] = temp;
             }
         }
-
+ 
         for(int i = 0; i<n; i++) {
             int start = 0, end = n-1;
 
