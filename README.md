@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Rupangkan/dsa-practice/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rupangkan/dsa-practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2023-design-movie-rental-system](https://github.com/Rupangkan/dsa-practice/tree/master/2023-design-movie-rental-system) |
+| [2043-cyclically-rotating-a-grid](https://github.com/Rupangkan/dsa-practice/tree/master/2043-cyclically-rotating-a-grid) |
 | [2048-build-array-from-permutation](https://github.com/Rupangkan/dsa-practice/tree/master/2048-build-array-from-permutation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Rupangkan/dsa-practice/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2089-maximum-matrix-sum](https://github.com/Rupangkan/dsa-practice/tree/master/2089-maximum-matrix-sum) |
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/Rupangkan/dsa-practice/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/Rupangkan/dsa-practice/tree/master/1972-rotating-the-box) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Rupangkan/dsa-practice/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2043-cyclically-rotating-a-grid](https://github.com/Rupangkan/dsa-practice/tree/master/2043-cyclically-rotating-a-grid) |
 | [2089-maximum-matrix-sum](https://github.com/Rupangkan/dsa-practice/tree/master/2089-maximum-matrix-sum) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Rupangkan/dsa-practice/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2145-grid-game](https://github.com/Rupangkan/dsa-practice/tree/master/2145-grid-game) |
@@ -1463,6 +1465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/Rupangkan/dsa-practice/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Rupangkan/dsa-practice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/Rupangkan/dsa-practice/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
+| [2043-cyclically-rotating-a-grid](https://github.com/Rupangkan/dsa-practice/tree/master/2043-cyclically-rotating-a-grid) |
 | [2048-build-array-from-permutation](https://github.com/Rupangkan/dsa-practice/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rupangkan/dsa-practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Rupangkan/dsa-practice/tree/master/2169-simple-bank-system) |
