@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Rupangkan/dsa-practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Rupangkan/dsa-practice/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Rupangkan/dsa-practice/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1428-jump-game-iii](https://github.com/Rupangkan/dsa-practice/tree/master/1428-jump-game-iii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rupangkan/dsa-practice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Rupangkan/dsa-practice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Rupangkan/dsa-practice/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
@@ -1238,6 +1239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rupangkan/dsa-practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1396-count-servers-that-communicate](https://github.com/Rupangkan/dsa-practice/tree/master/1396-count-servers-that-communicate) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Rupangkan/dsa-practice/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1428-jump-game-iii](https://github.com/Rupangkan/dsa-practice/tree/master/1428-jump-game-iii) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Rupangkan/dsa-practice/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/Rupangkan/dsa-practice/tree/master/1558-course-schedule-iv) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Rupangkan/dsa-practice/tree/master/1663-detect-cycles-in-2d-grid) |
@@ -1613,6 +1615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rupangkan/dsa-practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1285-balance-a-binary-search-tree](https://github.com/Rupangkan/dsa-practice/tree/master/1285-balance-a-binary-search-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Rupangkan/dsa-practice/tree/master/1396-count-servers-that-communicate) |
+| [1428-jump-game-iii](https://github.com/Rupangkan/dsa-practice/tree/master/1428-jump-game-iii) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Rupangkan/dsa-practice/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Rupangkan/dsa-practice/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/Rupangkan/dsa-practice/tree/master/1558-course-schedule-iv) |
