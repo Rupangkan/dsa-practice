@@ -1264,6 +1264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Rupangkan/dsa-practice/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1876-map-of-highest-peak](https://github.com/Rupangkan/dsa-practice/tree/master/1876-map-of-highest-peak) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Rupangkan/dsa-practice/tree/master/2101-last-day-where-you-can-still-cross) |
+| [2121-find-if-path-exists-in-graph](https://github.com/Rupangkan/dsa-practice/tree/master/2121-find-if-path-exists-in-graph) |
 | [2213-find-all-people-with-secret](https://github.com/Rupangkan/dsa-practice/tree/master/2213-find-all-people-with-secret) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Rupangkan/dsa-practice/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Rupangkan/dsa-practice/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -1641,6 +1642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Rupangkan/dsa-practice/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/Rupangkan/dsa-practice/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Rupangkan/dsa-practice/tree/master/2101-last-day-where-you-can-still-cross) |
+| [2121-find-if-path-exists-in-graph](https://github.com/Rupangkan/dsa-practice/tree/master/2121-find-if-path-exists-in-graph) |
 | [2213-find-all-people-with-secret](https://github.com/Rupangkan/dsa-practice/tree/master/2213-find-all-people-with-secret) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Rupangkan/dsa-practice/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Rupangkan/dsa-practice/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -1891,6 +1893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/Rupangkan/dsa-practice/tree/master/2121-find-if-path-exists-in-graph) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Rupangkan/dsa-practice/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/Rupangkan/dsa-practice/tree/master/3887-minimum-cost-path-with-edge-reversals) |
@@ -1905,6 +1908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Rupangkan/dsa-practice/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Rupangkan/dsa-practice/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/Rupangkan/dsa-practice/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
+| [2121-find-if-path-exists-in-graph](https://github.com/Rupangkan/dsa-practice/tree/master/2121-find-if-path-exists-in-graph) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/Rupangkan/dsa-practice/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
