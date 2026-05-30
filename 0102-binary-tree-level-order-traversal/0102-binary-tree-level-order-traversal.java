@@ -14,6 +14,8 @@
  * }
  */
 class Solution {
+    // Time Complexity : O(N)
+    // Space Complexity : O(N)
     public List<List<Integer>> levelOrder(TreeNode root) {
         if(root == null) return new ArrayList<>();
 
