@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3952-trionic-array-i](https://github.com/Rupangkan/dsa-practice/tree/master/3952-trionic-array-i) |
 | [3956-trionic-array-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3956-trionic-array-ii) |
 | [3958-minimum-removals-to-balance-array](https://github.com/Rupangkan/dsa-practice/tree/master/3958-minimum-removals-to-balance-array) |
+| [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rupangkan/dsa-practice/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/Rupangkan/dsa-practice/tree/master/3974-xor-after-range-multiplication-queries-i) |
 | [3975-xor-after-range-multiplication-queries-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3975-xor-after-range-multiplication-queries-ii) |
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Rupangkan/dsa-practice/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
@@ -752,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3791-fruits-into-baskets-iii](https://github.com/Rupangkan/dsa-practice/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/Rupangkan/dsa-practice/tree/master/3827-implement-router) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/Rupangkan/dsa-practice/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
+| [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rupangkan/dsa-practice/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/Rupangkan/dsa-practice/tree/master/3982-maximum-walls-destroyed-by-robots) |
 ## Dynamic Programming
 |  |
@@ -944,6 +946,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3819-count-covered-buildings](https://github.com/Rupangkan/dsa-practice/tree/master/3819-count-covered-buildings) |
 | [3934-coupon-code-validator](https://github.com/Rupangkan/dsa-practice/tree/master/3934-coupon-code-validator) |
 | [3958-minimum-removals-to-balance-array](https://github.com/Rupangkan/dsa-practice/tree/master/3958-minimum-removals-to-balance-array) |
+| [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rupangkan/dsa-practice/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/Rupangkan/dsa-practice/tree/master/3982-maximum-walls-destroyed-by-robots) |
 ## Heap (Priority Queue)
 |  |
@@ -1198,6 +1201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Rupangkan/dsa-practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Rupangkan/dsa-practice/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/Rupangkan/dsa-practice/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
+| [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rupangkan/dsa-practice/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1241,6 +1245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Rupangkan/dsa-practice/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/Rupangkan/dsa-practice/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Rupangkan/dsa-practice/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rupangkan/dsa-practice/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## Breadth-First Search
 |  |
 | ------- |
