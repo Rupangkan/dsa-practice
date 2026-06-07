@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rupangkan/dsa-practice/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Rupangkan/dsa-practice/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Rupangkan/dsa-practice/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/Rupangkan/dsa-practice/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Rupangkan/dsa-practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Rupangkan/dsa-practice/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Rupangkan/dsa-practice/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Rupangkan/dsa-practice/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rupangkan/dsa-practice/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Rupangkan/dsa-practice/tree/master/2300-construct-string-with-repeat-limit) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/Rupangkan/dsa-practice/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Rupangkan/dsa-practice/tree/master/2308-divide-array-into-equal-pairs) |
 | [2429-design-a-food-rating-system](https://github.com/Rupangkan/dsa-practice/tree/master/2429-design-a-food-rating-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/Rupangkan/dsa-practice/tree/master/2448-count-number-of-bad-pairs) |
@@ -1619,6 +1621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rupangkan/dsa-practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1285-balance-a-binary-search-tree](https://github.com/Rupangkan/dsa-practice/tree/master/1285-balance-a-binary-search-tree) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Rupangkan/dsa-practice/tree/master/1465-maximum-product-of-splitted-binary-tree) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/Rupangkan/dsa-practice/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Rupangkan/dsa-practice/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Rupangkan/dsa-practice/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Rupangkan/dsa-practice/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -1686,6 +1689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rupangkan/dsa-practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1285-balance-a-binary-search-tree](https://github.com/Rupangkan/dsa-practice/tree/master/1285-balance-a-binary-search-tree) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Rupangkan/dsa-practice/tree/master/1465-maximum-product-of-splitted-binary-tree) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/Rupangkan/dsa-practice/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Rupangkan/dsa-practice/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Rupangkan/dsa-practice/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Rolling Hash
