@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3827-implement-router](https://github.com/Rupangkan/dsa-practice/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Rupangkan/dsa-practice/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/Rupangkan/dsa-practice/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
+| [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Rupangkan/dsa-practice/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3849-equal-sum-grid-partition-i](https://github.com/Rupangkan/dsa-practice/tree/master/3849-equal-sum-grid-partition-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Rupangkan/dsa-practice/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -850,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/Rupangkan/dsa-practice/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Rupangkan/dsa-practice/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/Rupangkan/dsa-practice/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
+| [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Rupangkan/dsa-practice/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Rupangkan/dsa-practice/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/Rupangkan/dsa-practice/tree/master/3889-minimum-cost-path-with-teleportations) |
@@ -1133,6 +1135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Rupangkan/dsa-practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/Rupangkan/dsa-practice/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 | [3830-find-closest-person](https://github.com/Rupangkan/dsa-practice/tree/master/3830-find-closest-person) |
+| [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Rupangkan/dsa-practice/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Rupangkan/dsa-practice/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Rupangkan/dsa-practice/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
@@ -1377,6 +1380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Rupangkan/dsa-practice/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Rupangkan/dsa-practice/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Rupangkan/dsa-practice/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Recursion
 |  |
@@ -1633,6 +1637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Rupangkan/dsa-practice/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Rupangkan/dsa-practice/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Rupangkan/dsa-practice/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 ## Depth-First Search
 |  |
@@ -1674,6 +1679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Rupangkan/dsa-practice/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Rupangkan/dsa-practice/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Rupangkan/dsa-practice/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 | [3863-power-grid-maintenance](https://github.com/Rupangkan/dsa-practice/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
