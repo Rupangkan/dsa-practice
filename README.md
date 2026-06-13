@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/Rupangkan/dsa-practice/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/Rupangkan/dsa-practice/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/Rupangkan/dsa-practice/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
+| [4216-weighted-word-mapping](https://github.com/Rupangkan/dsa-practice/tree/master/4216-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -700,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3934-coupon-code-validator](https://github.com/Rupangkan/dsa-practice/tree/master/3934-coupon-code-validator) |
 | [4055-longest-balanced-substring-i](https://github.com/Rupangkan/dsa-practice/tree/master/4055-longest-balanced-substring-i) |
 | [4056-longest-balanced-substring-ii](https://github.com/Rupangkan/dsa-practice/tree/master/4056-longest-balanced-substring-ii) |
+| [4216-weighted-word-mapping](https://github.com/Rupangkan/dsa-practice/tree/master/4216-weighted-word-mapping) |
 ## Binary Search
 |  |
 | ------- |
@@ -1548,6 +1550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Rupangkan/dsa-practice/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/Rupangkan/dsa-practice/tree/master/3974-xor-after-range-multiplication-queries-i) |
+| [4216-weighted-word-mapping](https://github.com/Rupangkan/dsa-practice/tree/master/4216-weighted-word-mapping) |
 ## String Matching
 |  |
 | ------- |
