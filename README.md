@@ -1249,6 +1249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Rupangkan/dsa-practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1972-rotating-the-box](https://github.com/Rupangkan/dsa-practice/tree/master/1972-rotating-the-box) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Rupangkan/dsa-practice/tree/master/1984-maximum-distance-between-a-pair-of-values) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Rupangkan/dsa-practice/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Rupangkan/dsa-practice/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Rupangkan/dsa-practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Rupangkan/dsa-practice/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -1890,6 +1891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Rupangkan/dsa-practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0460-lfu-cache](https://github.com/Rupangkan/dsa-practice/tree/master/0460-lfu-cache) |
 | [0908-middle-of-the-linked-list](https://github.com/Rupangkan/dsa-practice/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Rupangkan/dsa-practice/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rupangkan/dsa-practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Rupangkan/dsa-practice/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Bitmask
