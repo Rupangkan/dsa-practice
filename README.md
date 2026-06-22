@@ -410,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rupangkan/dsa-practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Rupangkan/dsa-practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Rupangkan/dsa-practice/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1297-maximum-number-of-balloons](https://github.com/Rupangkan/dsa-practice/tree/master/1297-maximum-number-of-balloons) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Rupangkan/dsa-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/Rupangkan/dsa-practice/tree/master/1364-tuple-with-same-product) |
 | [1447-jump-game-iv](https://github.com/Rupangkan/dsa-practice/tree/master/1447-jump-game-iv) |
@@ -618,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Rupangkan/dsa-practice/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Rupangkan/dsa-practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Rupangkan/dsa-practice/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1297-maximum-number-of-balloons](https://github.com/Rupangkan/dsa-practice/tree/master/1297-maximum-number-of-balloons) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Rupangkan/dsa-practice/tree/master/1321-get-equal-substrings-within-budget) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Rupangkan/dsa-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Rupangkan/dsa-practice/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -1472,6 +1474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Rupangkan/dsa-practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/Rupangkan/dsa-practice/tree/master/0900-reordered-power-of-2) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Rupangkan/dsa-practice/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1297-maximum-number-of-balloons](https://github.com/Rupangkan/dsa-practice/tree/master/1297-maximum-number-of-balloons) |
 | [1364-tuple-with-same-product](https://github.com/Rupangkan/dsa-practice/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Rupangkan/dsa-practice/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Rupangkan/dsa-practice/tree/master/1502-construct-k-palindrome-strings) |
