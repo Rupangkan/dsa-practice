@@ -710,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3770-lexicographically-smallest-generated-string](https://github.com/Rupangkan/dsa-practice/tree/master/3770-lexicographically-smallest-generated-string) |
 | [3797-design-spreadsheet](https://github.com/Rupangkan/dsa-practice/tree/master/3797-design-spreadsheet) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/Rupangkan/dsa-practice/tree/master/3805-maximize-active-section-with-trade-i) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/Rupangkan/dsa-practice/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Rupangkan/dsa-practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3934-coupon-code-validator](https://github.com/Rupangkan/dsa-practice/tree/master/3934-coupon-code-validator) |
 | [3939-process-string-with-special-operations-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3939-process-string-with-special-operations-ii) |
@@ -972,6 +973,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3721-count-mentions-per-user](https://github.com/Rupangkan/dsa-practice/tree/master/3721-count-mentions-per-user) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Rupangkan/dsa-practice/tree/master/3748-sort-matrix-by-diagonals) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/Rupangkan/dsa-practice/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/Rupangkan/dsa-practice/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3819-count-covered-buildings](https://github.com/Rupangkan/dsa-practice/tree/master/3819-count-covered-buildings) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3859-maximum-product-of-two-digits](https://github.com/Rupangkan/dsa-practice/tree/master/3859-maximum-product-of-two-digits) |
@@ -1991,4 +1993,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/Rupangkan/dsa-practice/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
+## Counting Sort
+|  |
+| ------- |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/Rupangkan/dsa-practice/tree/master/3812-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
