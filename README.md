@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Rupangkan/dsa-practice/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/Rupangkan/dsa-practice/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Rupangkan/dsa-practice/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Rupangkan/dsa-practice/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/Rupangkan/dsa-practice/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Rupangkan/dsa-practice/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Rupangkan/dsa-practice/tree/master/0496-next-greater-element-i) |
@@ -805,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Rupangkan/dsa-practice/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/Rupangkan/dsa-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Rupangkan/dsa-practice/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/Rupangkan/dsa-practice/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Rupangkan/dsa-practice/tree/master/0494-target-sum) |
 | [0576-out-of-boundary-paths](https://github.com/Rupangkan/dsa-practice/tree/master/0576-out-of-boundary-paths) |
 | [0647-palindromic-substrings](https://github.com/Rupangkan/dsa-practice/tree/master/0647-palindromic-substrings) |
@@ -1088,6 +1090,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Rupangkan/dsa-practice/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Rupangkan/dsa-practice/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/Rupangkan/dsa-practice/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/Rupangkan/dsa-practice/tree/master/0486-predict-the-winner) |
 | [0679-24-game](https://github.com/Rupangkan/dsa-practice/tree/master/0679-24-game) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Rupangkan/dsa-practice/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0797-rabbits-in-forest](https://github.com/Rupangkan/dsa-practice/tree/master/0797-rabbits-in-forest) |
@@ -1430,6 +1433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Rupangkan/dsa-practice/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Rupangkan/dsa-practice/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/Rupangkan/dsa-practice/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/Rupangkan/dsa-practice/tree/master/0486-predict-the-winner) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Rupangkan/dsa-practice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/Rupangkan/dsa-practice/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Rupangkan/dsa-practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -1871,6 +1875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Rupangkan/dsa-practice/tree/master/0486-predict-the-winner) |
 | [3462-vowels-game-in-a-string](https://github.com/Rupangkan/dsa-practice/tree/master/3462-vowels-game-in-a-string) |
 ## Design
 |  |
