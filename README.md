@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/Rupangkan/dsa-practice/tree/master/0870-magic-squares-in-grid) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Rupangkan/dsa-practice/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/Rupangkan/dsa-practice/tree/master/0906-walking-robot-simulation) |
+| [0909-stone-game](https://github.com/Rupangkan/dsa-practice/tree/master/0909-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Rupangkan/dsa-practice/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Rupangkan/dsa-practice/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/Rupangkan/dsa-practice/tree/master/0945-snakes-and-ladders) |
@@ -819,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/Rupangkan/dsa-practice/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Rupangkan/dsa-practice/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/Rupangkan/dsa-practice/tree/master/0868-push-dominoes) |
+| [0909-stone-game](https://github.com/Rupangkan/dsa-practice/tree/master/0909-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Rupangkan/dsa-practice/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0967-minimum-falling-path-sum](https://github.com/Rupangkan/dsa-practice/tree/master/0967-minimum-falling-path-sum) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/Rupangkan/dsa-practice/tree/master/1000-delete-columns-to-make-sorted-iii) |
@@ -1100,6 +1102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/Rupangkan/dsa-practice/tree/master/0867-new-21-game) |
 | [0870-magic-squares-in-grid](https://github.com/Rupangkan/dsa-practice/tree/master/0870-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/Rupangkan/dsa-practice/tree/master/0900-reordered-power-of-2) |
+| [0909-stone-game](https://github.com/Rupangkan/dsa-practice/tree/master/0909-stone-game) |
 | [1018-largest-perimeter-triangle](https://github.com/Rupangkan/dsa-practice/tree/master/1018-largest-perimeter-triangle) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Rupangkan/dsa-practice/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1284-four-divisors](https://github.com/Rupangkan/dsa-practice/tree/master/1284-four-divisors) |
@@ -1876,6 +1879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Rupangkan/dsa-practice/tree/master/0486-predict-the-winner) |
+| [0909-stone-game](https://github.com/Rupangkan/dsa-practice/tree/master/0909-stone-game) |
 | [3462-vowels-game-in-a-string](https://github.com/Rupangkan/dsa-practice/tree/master/3462-vowels-game-in-a-string) |
 ## Design
 |  |
