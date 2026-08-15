@@ -369,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/Rupangkan/dsa-practice/tree/master/3982-maximum-walls-destroyed-by-robots) |
 | [3986-maximum-path-score-in-a-grid](https://github.com/Rupangkan/dsa-practice/tree/master/3986-maximum-path-score-in-a-grid) |
 | [4005-maximum-total-subarray-value-i](https://github.com/Rupangkan/dsa-practice/tree/master/4005-maximum-total-subarray-value-i) |
+| [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Rupangkan/dsa-practice/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4045-longest-balanced-subarray-i](https://github.com/Rupangkan/dsa-practice/tree/master/4045-longest-balanced-subarray-i) |
 | [4047-longest-balanced-subarray-ii](https://github.com/Rupangkan/dsa-practice/tree/master/4047-longest-balanced-subarray-ii) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/Rupangkan/dsa-practice/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
@@ -1435,6 +1436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Rupangkan/dsa-practice/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3852-path-existence-queries-in-a-graph-ii) |
+| [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Rupangkan/dsa-practice/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Recursion
 |  |
 | ------- |
