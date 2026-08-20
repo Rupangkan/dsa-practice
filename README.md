@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Rupangkan/dsa-practice/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Rupangkan/dsa-practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Rupangkan/dsa-practice/tree/master/3334-apple-redistribution-into-boxes) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/Rupangkan/dsa-practice/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Rupangkan/dsa-practice/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Rupangkan/dsa-practice/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Rupangkan/dsa-practice/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -1610,6 +1611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Rupangkan/dsa-practice/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2846-robot-collisions](https://github.com/Rupangkan/dsa-practice/tree/master/2846-robot-collisions) |
 | [3336-water-bottles-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3336-water-bottles-ii) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/Rupangkan/dsa-practice/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Rupangkan/dsa-practice/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Rupangkan/dsa-practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Rupangkan/dsa-practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
