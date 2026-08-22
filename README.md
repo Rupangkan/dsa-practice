@@ -1199,6 +1199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Rupangkan/dsa-practice/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3886-count-number-of-trapezoids-i](https://github.com/Rupangkan/dsa-practice/tree/master/3886-count-number-of-trapezoids-i) |
 | [3897-count-number-of-trapezoids-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3897-count-number-of-trapezoids-ii) |
+| [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Rupangkan/dsa-practice/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Rupangkan/dsa-practice/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/Rupangkan/dsa-practice/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/Rupangkan/dsa-practice/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
