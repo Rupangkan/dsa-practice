@@ -661,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Rupangkan/dsa-practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Rupangkan/dsa-practice/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Rupangkan/dsa-practice/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2039-sum-game](https://github.com/Rupangkan/dsa-practice/tree/master/2039-sum-game) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rupangkan/dsa-practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/Rupangkan/dsa-practice/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rupangkan/dsa-practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -1140,6 +1141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Rupangkan/dsa-practice/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rupangkan/dsa-practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2037-count-square-sum-triples](https://github.com/Rupangkan/dsa-practice/tree/master/2037-count-square-sum-triples) |
+| [2039-sum-game](https://github.com/Rupangkan/dsa-practice/tree/master/2039-sum-game) |
 | [2050-count-good-numbers](https://github.com/Rupangkan/dsa-practice/tree/master/2050-count-good-numbers) |
 | [2156-stone-game-ix](https://github.com/Rupangkan/dsa-practice/tree/master/2156-stone-game-ix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Rupangkan/dsa-practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -1236,6 +1238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1845-largest-submatrix-with-rearrangements](https://github.com/Rupangkan/dsa-practice/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1917-maximum-average-pass-ratio](https://github.com/Rupangkan/dsa-practice/tree/master/1917-maximum-average-pass-ratio) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Rupangkan/dsa-practice/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2039-sum-game](https://github.com/Rupangkan/dsa-practice/tree/master/2039-sum-game) |
 | [2089-maximum-matrix-sum](https://github.com/Rupangkan/dsa-practice/tree/master/2089-maximum-matrix-sum) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Rupangkan/dsa-practice/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2156-stone-game-ix](https://github.com/Rupangkan/dsa-practice/tree/master/2156-stone-game-ix) |
@@ -1917,6 +1920,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Rupangkan/dsa-practice/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/Rupangkan/dsa-practice/tree/master/0909-stone-game) |
 | [1685-stone-game-v](https://github.com/Rupangkan/dsa-practice/tree/master/1685-stone-game-v) |
+| [2039-sum-game](https://github.com/Rupangkan/dsa-practice/tree/master/2039-sum-game) |
 | [2156-stone-game-ix](https://github.com/Rupangkan/dsa-practice/tree/master/2156-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/Rupangkan/dsa-practice/tree/master/3462-vowels-game-in-a-string) |
 ## Design
