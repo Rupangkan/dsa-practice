@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Rupangkan/dsa-practice/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Rupangkan/dsa-practice/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rupangkan/dsa-practice/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2002-stone-game-viii](https://github.com/Rupangkan/dsa-practice/tree/master/2002-stone-game-viii) |
 | [2023-design-movie-rental-system](https://github.com/Rupangkan/dsa-practice/tree/master/2023-design-movie-rental-system) |
 | [2043-cyclically-rotating-a-grid](https://github.com/Rupangkan/dsa-practice/tree/master/2043-cyclically-rotating-a-grid) |
 | [2048-build-array-from-permutation](https://github.com/Rupangkan/dsa-practice/tree/master/2048-build-array-from-permutation) |
@@ -857,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Rupangkan/dsa-practice/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Rupangkan/dsa-practice/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Rupangkan/dsa-practice/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2002-stone-game-viii](https://github.com/Rupangkan/dsa-practice/tree/master/2002-stone-game-viii) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Rupangkan/dsa-practice/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Rupangkan/dsa-practice/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Rupangkan/dsa-practice/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -1056,6 +1058,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/Rupangkan/dsa-practice/tree/master/1940-maximum-xor-for-each-query) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Rupangkan/dsa-practice/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Rupangkan/dsa-practice/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2002-stone-game-viii](https://github.com/Rupangkan/dsa-practice/tree/master/2002-stone-game-viii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rupangkan/dsa-practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/Rupangkan/dsa-practice/tree/master/2145-grid-game) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Rupangkan/dsa-practice/tree/master/2205-find-good-days-to-rob-the-bank) |
@@ -1140,6 +1143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1968-maximum-building-height](https://github.com/Rupangkan/dsa-practice/tree/master/1968-maximum-building-height) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Rupangkan/dsa-practice/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rupangkan/dsa-practice/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2002-stone-game-viii](https://github.com/Rupangkan/dsa-practice/tree/master/2002-stone-game-viii) |
 | [2037-count-square-sum-triples](https://github.com/Rupangkan/dsa-practice/tree/master/2037-count-square-sum-triples) |
 | [2039-sum-game](https://github.com/Rupangkan/dsa-practice/tree/master/2039-sum-game) |
 | [2050-count-good-numbers](https://github.com/Rupangkan/dsa-practice/tree/master/2050-count-good-numbers) |
@@ -1920,6 +1924,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Rupangkan/dsa-practice/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/Rupangkan/dsa-practice/tree/master/0909-stone-game) |
 | [1685-stone-game-v](https://github.com/Rupangkan/dsa-practice/tree/master/1685-stone-game-v) |
+| [2002-stone-game-viii](https://github.com/Rupangkan/dsa-practice/tree/master/2002-stone-game-viii) |
 | [2039-sum-game](https://github.com/Rupangkan/dsa-practice/tree/master/2039-sum-game) |
 | [2156-stone-game-ix](https://github.com/Rupangkan/dsa-practice/tree/master/2156-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/Rupangkan/dsa-practice/tree/master/3462-vowels-game-in-a-string) |
@@ -2051,6 +2056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [2002-stone-game-viii](https://github.com/Rupangkan/dsa-practice/tree/master/2002-stone-game-viii) |
 | [2156-stone-game-ix](https://github.com/Rupangkan/dsa-practice/tree/master/2156-stone-game-ix) |
 ## Nim Game
 |  |
@@ -2059,5 +2065,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Zero-Sum Game
 |  |
 | ------- |
+| [2002-stone-game-viii](https://github.com/Rupangkan/dsa-practice/tree/master/2002-stone-game-viii) |
 | [2156-stone-game-ix](https://github.com/Rupangkan/dsa-practice/tree/master/2156-stone-game-ix) |
 <!---LeetCode Topics End-->
