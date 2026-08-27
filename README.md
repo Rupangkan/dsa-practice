@@ -513,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3897-count-number-of-trapezoids-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3897-count-number-of-trapezoids-ii) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Rupangkan/dsa-practice/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3934-coupon-code-validator](https://github.com/Rupangkan/dsa-practice/tree/master/3934-coupon-code-validator) |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/Rupangkan/dsa-practice/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4045-longest-balanced-subarray-i](https://github.com/Rupangkan/dsa-practice/tree/master/4045-longest-balanced-subarray-i) |
 | [4047-longest-balanced-subarray-ii](https://github.com/Rupangkan/dsa-practice/tree/master/4047-longest-balanced-subarray-ii) |
 | [4055-longest-balanced-substring-i](https://github.com/Rupangkan/dsa-practice/tree/master/4055-longest-balanced-substring-i) |
@@ -733,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Rupangkan/dsa-practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3934-coupon-code-validator](https://github.com/Rupangkan/dsa-practice/tree/master/3934-coupon-code-validator) |
 | [3939-process-string-with-special-operations-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3939-process-string-with-special-operations-ii) |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/Rupangkan/dsa-practice/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4055-longest-balanced-substring-i](https://github.com/Rupangkan/dsa-practice/tree/master/4055-longest-balanced-substring-i) |
 | [4056-longest-balanced-substring-ii](https://github.com/Rupangkan/dsa-practice/tree/master/4056-longest-balanced-substring-ii) |
 | [4216-weighted-word-mapping](https://github.com/Rupangkan/dsa-practice/tree/master/4216-weighted-word-mapping) |
@@ -1286,6 +1288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/Rupangkan/dsa-practice/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rupangkan/dsa-practice/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [4005-maximum-total-subarray-value-i](https://github.com/Rupangkan/dsa-practice/tree/master/4005-maximum-total-subarray-value-i) |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/Rupangkan/dsa-practice/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1572,6 +1575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Rupangkan/dsa-practice/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Rupangkan/dsa-practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3885-count-special-triplets](https://github.com/Rupangkan/dsa-practice/tree/master/3885-count-special-triplets) |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/Rupangkan/dsa-practice/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4055-longest-balanced-substring-i](https://github.com/Rupangkan/dsa-practice/tree/master/4055-longest-balanced-substring-i) |
 ## Queue
 |  |
@@ -1891,6 +1895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Rupangkan/dsa-practice/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/Rupangkan/dsa-practice/tree/master/3805-maximize-active-section-with-trade-i) |
 | [3849-equal-sum-grid-partition-i](https://github.com/Rupangkan/dsa-practice/tree/master/3849-equal-sum-grid-partition-i) |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/Rupangkan/dsa-practice/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4055-longest-balanced-substring-i](https://github.com/Rupangkan/dsa-practice/tree/master/4055-longest-balanced-substring-i) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/Rupangkan/dsa-practice/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 ## Segment Tree
