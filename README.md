@@ -735,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3934-coupon-code-validator](https://github.com/Rupangkan/dsa-practice/tree/master/3934-coupon-code-validator) |
 | [3939-process-string-with-special-operations-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3939-process-string-with-special-operations-ii) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/Rupangkan/dsa-practice/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
+| [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Rupangkan/dsa-practice/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [4055-longest-balanced-substring-i](https://github.com/Rupangkan/dsa-practice/tree/master/4055-longest-balanced-substring-i) |
 | [4056-longest-balanced-substring-ii](https://github.com/Rupangkan/dsa-practice/tree/master/4056-longest-balanced-substring-ii) |
 | [4216-weighted-word-mapping](https://github.com/Rupangkan/dsa-practice/tree/master/4216-weighted-word-mapping) |
@@ -1336,6 +1337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Rupangkan/dsa-practice/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rupangkan/dsa-practice/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
+| [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Rupangkan/dsa-practice/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1896,6 +1898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3805-maximize-active-section-with-trade-i](https://github.com/Rupangkan/dsa-practice/tree/master/3805-maximize-active-section-with-trade-i) |
 | [3849-equal-sum-grid-partition-i](https://github.com/Rupangkan/dsa-practice/tree/master/3849-equal-sum-grid-partition-i) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/Rupangkan/dsa-practice/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
+| [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Rupangkan/dsa-practice/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [4055-longest-balanced-substring-i](https://github.com/Rupangkan/dsa-practice/tree/master/4055-longest-balanced-substring-i) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/Rupangkan/dsa-practice/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 ## Segment Tree
