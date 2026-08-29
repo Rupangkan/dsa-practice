@@ -2053,6 +2053,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1663-detect-cycles-in-2d-grid](https://github.com/Rupangkan/dsa-practice/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/Rupangkan/dsa-practice/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Rupangkan/dsa-practice/tree/master/2121-find-if-path-exists-in-graph) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Rupangkan/dsa-practice/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/Rupangkan/dsa-practice/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/Rupangkan/dsa-practice/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
