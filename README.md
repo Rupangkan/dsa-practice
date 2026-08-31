@@ -1998,6 +1998,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Rupangkan/dsa-practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0460-lfu-cache](https://github.com/Rupangkan/dsa-practice/tree/master/0460-lfu-cache) |
 | [0908-middle-of-the-linked-list](https://github.com/Rupangkan/dsa-practice/tree/master/0908-middle-of-the-linked-list) |
+| [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Rupangkan/dsa-practice/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Rupangkan/dsa-practice/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rupangkan/dsa-practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Rupangkan/dsa-practice/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
