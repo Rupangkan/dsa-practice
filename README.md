@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/Rupangkan/dsa-practice/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/Rupangkan/dsa-practice/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4216-weighted-word-mapping](https://github.com/Rupangkan/dsa-practice/tree/master/4216-weighted-word-mapping) |
+| [4256-construct-uniform-parity-array-i](https://github.com/Rupangkan/dsa-practice/tree/master/4256-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -1218,6 +1219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/Rupangkan/dsa-practice/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/Rupangkan/dsa-practice/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4168-mirror-distance-of-an-integer](https://github.com/Rupangkan/dsa-practice/tree/master/4168-mirror-distance-of-an-integer) |
+| [4256-construct-uniform-parity-array-i](https://github.com/Rupangkan/dsa-practice/tree/master/4256-construct-uniform-parity-array-i) |
 ## Greedy
 |  |
 | ------- |
