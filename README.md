@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4216-weighted-word-mapping](https://github.com/Rupangkan/dsa-practice/tree/master/4216-weighted-word-mapping) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Rupangkan/dsa-practice/tree/master/4256-construct-uniform-parity-array-i) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/Rupangkan/dsa-practice/tree/master/4258-construct-uniform-parity-array-ii) |
+| [4284-smallest-stable-index-i](https://github.com/Rupangkan/dsa-practice/tree/master/4284-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -1107,6 +1108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4045-longest-balanced-subarray-i](https://github.com/Rupangkan/dsa-practice/tree/master/4045-longest-balanced-subarray-i) |
 | [4047-longest-balanced-subarray-ii](https://github.com/Rupangkan/dsa-practice/tree/master/4047-longest-balanced-subarray-ii) |
 | [4056-longest-balanced-substring-ii](https://github.com/Rupangkan/dsa-practice/tree/master/4056-longest-balanced-substring-ii) |
+| [4284-smallest-stable-index-i](https://github.com/Rupangkan/dsa-practice/tree/master/4284-smallest-stable-index-i) |
 ## Math
 |  |
 | ------- |
