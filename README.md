@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Rupangkan/dsa-practice/tree/master/0797-rabbits-in-forest) |
 | [0808-number-of-matching-subsequences](https://github.com/Rupangkan/dsa-practice/tree/master/0808-number-of-matching-subsequences) |
 | [0830-largest-triangle-area](https://github.com/Rupangkan/dsa-practice/tree/master/0830-largest-triangle-area) |
+| [0864-image-overlap](https://github.com/Rupangkan/dsa-practice/tree/master/0864-image-overlap) |
 | [0870-magic-squares-in-grid](https://github.com/Rupangkan/dsa-practice/tree/master/0870-magic-squares-in-grid) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Rupangkan/dsa-practice/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/Rupangkan/dsa-practice/tree/master/0906-walking-robot-simulation) |
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Rupangkan/dsa-practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0787-sliding-puzzle](https://github.com/Rupangkan/dsa-practice/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/Rupangkan/dsa-practice/tree/master/0794-swim-in-rising-water) |
+| [0864-image-overlap](https://github.com/Rupangkan/dsa-practice/tree/master/0864-image-overlap) |
 | [0870-magic-squares-in-grid](https://github.com/Rupangkan/dsa-practice/tree/master/0870-magic-squares-in-grid) |
 | [0945-snakes-and-ladders](https://github.com/Rupangkan/dsa-practice/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/Rupangkan/dsa-practice/tree/master/0967-minimum-falling-path-sum) |
