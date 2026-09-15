@@ -701,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/Rupangkan/dsa-practice/tree/master/2465-shifting-letters-ii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Rupangkan/dsa-practice/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/Rupangkan/dsa-practice/tree/master/2550-words-within-two-edits-of-dictionary) |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rupangkan/dsa-practice/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Rupangkan/dsa-practice/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Rupangkan/dsa-practice/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Rupangkan/dsa-practice/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -893,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2504-find-all-good-indices](https://github.com/Rupangkan/dsa-practice/tree/master/2504-find-all-good-indices) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Rupangkan/dsa-practice/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/Rupangkan/dsa-practice/tree/master/2554-minimum-total-distance-traveled) |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rupangkan/dsa-practice/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Rupangkan/dsa-practice/tree/master/2562-count-ways-to-build-good-strings) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Rupangkan/dsa-practice/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Rupangkan/dsa-practice/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -1280,6 +1282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Rupangkan/dsa-practice/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2509-minimize-xor](https://github.com/Rupangkan/dsa-practice/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Rupangkan/dsa-practice/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rupangkan/dsa-practice/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/Rupangkan/dsa-practice/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Rupangkan/dsa-practice/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Rupangkan/dsa-practice/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -1348,6 +1351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/Rupangkan/dsa-practice/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Rupangkan/dsa-practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Rupangkan/dsa-practice/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rupangkan/dsa-practice/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Rupangkan/dsa-practice/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2634-minimum-common-value](https://github.com/Rupangkan/dsa-practice/tree/master/2634-minimum-common-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Rupangkan/dsa-practice/tree/master/2699-count-the-number-of-fair-pairs) |
