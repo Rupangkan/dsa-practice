@@ -1157,6 +1157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1446-angle-between-hands-of-a-clock](https://github.com/Rupangkan/dsa-practice/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1448-maximum-69-number](https://github.com/Rupangkan/dsa-practice/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/Rupangkan/dsa-practice/tree/master/1500-count-largest-group) |
+| [1501-circle-and-rectangle-overlapping](https://github.com/Rupangkan/dsa-practice/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Rupangkan/dsa-practice/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Rupangkan/dsa-practice/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1642-water-bottles](https://github.com/Rupangkan/dsa-practice/tree/master/1642-water-bottles) |
@@ -1953,6 +1954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0830-largest-triangle-area](https://github.com/Rupangkan/dsa-practice/tree/master/0830-largest-triangle-area) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Rupangkan/dsa-practice/tree/master/1395-minimum-time-visiting-all-points) |
+| [1501-circle-and-rectangle-overlapping](https://github.com/Rupangkan/dsa-practice/tree/master/1501-circle-and-rectangle-overlapping) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Rupangkan/dsa-practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Rupangkan/dsa-practice/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
