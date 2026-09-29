@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Rupangkan/dsa-practice/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Rupangkan/dsa-practice/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Rupangkan/dsa-practice/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rupangkan/dsa-practice/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [2358-number-of-ways-to-split-array](https://github.com/Rupangkan/dsa-practice/tree/master/2358-number-of-ways-to-split-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Rupangkan/dsa-practice/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Rupangkan/dsa-practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -597,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Rupangkan/dsa-practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Rupangkan/dsa-practice/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Rupangkan/dsa-practice/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rupangkan/dsa-practice/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Rupangkan/dsa-practice/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Rupangkan/dsa-practice/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2625-increment-submatrices-by-one](https://github.com/Rupangkan/dsa-practice/tree/master/2625-increment-submatrices-by-one) |
@@ -890,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/Rupangkan/dsa-practice/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/Rupangkan/dsa-practice/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2262-solving-questions-with-brainpower](https://github.com/Rupangkan/dsa-practice/tree/master/2262-solving-questions-with-brainpower) |
+| [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rupangkan/dsa-practice/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Rupangkan/dsa-practice/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Rupangkan/dsa-practice/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Rupangkan/dsa-practice/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -2117,4 +2120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2002-stone-game-viii](https://github.com/Rupangkan/dsa-practice/tree/master/2002-stone-game-viii) |
 | [2156-stone-game-ix](https://github.com/Rupangkan/dsa-practice/tree/master/2156-stone-game-ix) |
+## Bracket Sequences
+|  |
+| ------- |
+| [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rupangkan/dsa-practice/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
