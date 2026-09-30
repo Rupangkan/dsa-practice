@@ -658,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/Rupangkan/dsa-practice/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Rupangkan/dsa-practice/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Rupangkan/dsa-practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rupangkan/dsa-practice/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Rupangkan/dsa-practice/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1297-maximum-number-of-balloons](https://github.com/Rupangkan/dsa-practice/tree/master/1297-maximum-number-of-balloons) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Rupangkan/dsa-practice/tree/master/1321-get-equal-substrings-within-budget) |
@@ -1721,6 +1722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Rupangkan/dsa-practice/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Rupangkan/dsa-practice/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/Rupangkan/dsa-practice/tree/master/0937-online-stock-span) |
+| [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rupangkan/dsa-practice/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Rupangkan/dsa-practice/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Rupangkan/dsa-practice/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Rupangkan/dsa-practice/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -2123,5 +2125,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rupangkan/dsa-practice/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rupangkan/dsa-practice/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
