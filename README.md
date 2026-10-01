@@ -2125,6 +2125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Rupangkan/dsa-practice/tree/master/0020-valid-parentheses) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rupangkan/dsa-practice/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rupangkan/dsa-practice/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
