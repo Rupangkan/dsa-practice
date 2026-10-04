@@ -644,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Rupangkan/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/Rupangkan/dsa-practice/tree/master/0474-ones-and-zeroes) |
 | [0647-palindromic-substrings](https://github.com/Rupangkan/dsa-practice/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/Rupangkan/dsa-practice/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/Rupangkan/dsa-practice/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Rupangkan/dsa-practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0757-pyramid-transition-matrix](https://github.com/Rupangkan/dsa-practice/tree/master/0757-pyramid-transition-matrix) |
@@ -856,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Rupangkan/dsa-practice/tree/master/0494-target-sum) |
 | [0576-out-of-boundary-paths](https://github.com/Rupangkan/dsa-practice/tree/master/0576-out-of-boundary-paths) |
 | [0647-palindromic-substrings](https://github.com/Rupangkan/dsa-practice/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/Rupangkan/dsa-practice/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Rupangkan/dsa-practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0747-min-cost-climbing-stairs](https://github.com/Rupangkan/dsa-practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0804-rotated-digits](https://github.com/Rupangkan/dsa-practice/tree/master/0804-rotated-digits) |
@@ -1257,6 +1259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Rupangkan/dsa-practice/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/Rupangkan/dsa-practice/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/Rupangkan/dsa-practice/tree/master/0611-valid-triangle-number) |
+| [0678-valid-parenthesis-string](https://github.com/Rupangkan/dsa-practice/tree/master/0678-valid-parenthesis-string) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Rupangkan/dsa-practice/tree/master/0759-set-intersection-size-at-least-two) |
 | [0768-partition-labels](https://github.com/Rupangkan/dsa-practice/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Rupangkan/dsa-practice/tree/master/0780-max-chunks-to-make-sorted) |
@@ -1725,6 +1728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Rupangkan/dsa-practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Rupangkan/dsa-practice/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Rupangkan/dsa-practice/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/Rupangkan/dsa-practice/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Rupangkan/dsa-practice/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Rupangkan/dsa-practice/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/Rupangkan/dsa-practice/tree/master/0937-online-stock-span) |
@@ -2134,6 +2138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Rupangkan/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Rupangkan/dsa-practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Rupangkan/dsa-practice/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Rupangkan/dsa-practice/tree/master/0678-valid-parenthesis-string) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rupangkan/dsa-practice/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rupangkan/dsa-practice/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
