@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3001-apply-operations-to-maximize-score](https://github.com/Rupangkan/dsa-practice/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Rupangkan/dsa-practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
+| [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rupangkan/dsa-practice/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Rupangkan/dsa-practice/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Rupangkan/dsa-practice/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3194-find-words-containing-character](https://github.com/Rupangkan/dsa-practice/tree/master/3194-find-words-containing-character) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/Rupangkan/dsa-practice/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/Rupangkan/dsa-practice/tree/master/2915-count-of-interesting-subarrays) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Rupangkan/dsa-practice/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rupangkan/dsa-practice/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Rupangkan/dsa-practice/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Rupangkan/dsa-practice/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Rupangkan/dsa-practice/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -1316,6 +1318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Rupangkan/dsa-practice/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Rupangkan/dsa-practice/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Rupangkan/dsa-practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rupangkan/dsa-practice/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Rupangkan/dsa-practice/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Rupangkan/dsa-practice/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Rupangkan/dsa-practice/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -1500,6 +1503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Rupangkan/dsa-practice/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Rupangkan/dsa-practice/tree/master/2792-neighboring-bitwise-xor) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Rupangkan/dsa-practice/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rupangkan/dsa-practice/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Rupangkan/dsa-practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Rupangkan/dsa-practice/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Rupangkan/dsa-practice/tree/master/3307-find-the-maximum-sum-of-node-values) |
