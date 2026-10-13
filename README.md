@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Rupangkan/dsa-practice/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4045-longest-balanced-subarray-i](https://github.com/Rupangkan/dsa-practice/tree/master/4045-longest-balanced-subarray-i) |
 | [4047-longest-balanced-subarray-ii](https://github.com/Rupangkan/dsa-practice/tree/master/4047-longest-balanced-subarray-ii) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/Rupangkan/dsa-practice/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Rupangkan/dsa-practice/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/Rupangkan/dsa-practice/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/Rupangkan/dsa-practice/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
@@ -1046,6 +1047,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3958-minimum-removals-to-balance-array](https://github.com/Rupangkan/dsa-practice/tree/master/3958-minimum-removals-to-balance-array) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rupangkan/dsa-practice/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/Rupangkan/dsa-practice/tree/master/3982-maximum-walls-destroyed-by-robots) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/Rupangkan/dsa-practice/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1339,6 +1341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rupangkan/dsa-practice/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [4005-maximum-total-subarray-value-i](https://github.com/Rupangkan/dsa-practice/tree/master/4005-maximum-total-subarray-value-i) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/Rupangkan/dsa-practice/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/Rupangkan/dsa-practice/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
 | ------- |
