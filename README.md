@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/Rupangkan/dsa-practice/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4216-weighted-word-mapping](https://github.com/Rupangkan/dsa-practice/tree/master/4216-weighted-word-mapping) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Rupangkan/dsa-practice/tree/master/4256-construct-uniform-parity-array-i) |
+| [4257-sum-of-sortable-integers](https://github.com/Rupangkan/dsa-practice/tree/master/4257-sum-of-sortable-integers) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/Rupangkan/dsa-practice/tree/master/4258-construct-uniform-parity-array-ii) |
 | [4284-smallest-stable-index-i](https://github.com/Rupangkan/dsa-practice/tree/master/4284-smallest-stable-index-i) |
 | [4285-smallest-stable-index-ii](https://github.com/Rupangkan/dsa-practice/tree/master/4285-smallest-stable-index-ii) |
@@ -1051,6 +1052,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rupangkan/dsa-practice/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/Rupangkan/dsa-practice/tree/master/3982-maximum-walls-destroyed-by-robots) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/Rupangkan/dsa-practice/tree/master/4078-maximum-alternating-sum-of-squares) |
+| [4257-sum-of-sortable-integers](https://github.com/Rupangkan/dsa-practice/tree/master/4257-sum-of-sortable-integers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1264,6 +1266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4168-mirror-distance-of-an-integer](https://github.com/Rupangkan/dsa-practice/tree/master/4168-mirror-distance-of-an-integer) |
 | [4248-count-commas-in-range-ii](https://github.com/Rupangkan/dsa-practice/tree/master/4248-count-commas-in-range-ii) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Rupangkan/dsa-practice/tree/master/4256-construct-uniform-parity-array-i) |
+| [4257-sum-of-sortable-integers](https://github.com/Rupangkan/dsa-practice/tree/master/4257-sum-of-sortable-integers) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/Rupangkan/dsa-practice/tree/master/4258-construct-uniform-parity-array-ii) |
 ## Greedy
 |  |
@@ -1972,6 +1975,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Rupangkan/dsa-practice/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [4055-longest-balanced-substring-i](https://github.com/Rupangkan/dsa-practice/tree/master/4055-longest-balanced-substring-i) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/Rupangkan/dsa-practice/tree/master/4057-total-waviness-of-numbers-in-range-i) |
+| [4257-sum-of-sortable-integers](https://github.com/Rupangkan/dsa-practice/tree/master/4257-sum-of-sortable-integers) |
 ## Segment Tree
 |  |
 | ------- |
