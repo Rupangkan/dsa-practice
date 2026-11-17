@@ -726,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Rupangkan/dsa-practice/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Rupangkan/dsa-practice/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Rupangkan/dsa-practice/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2879-minimum-changes-to-make-k-semi-palindromes](https://github.com/Rupangkan/dsa-practice/tree/master/2879-minimum-changes-to-make-k-semi-palindromes) |
 | [2887-sort-vowels-in-a-string](https://github.com/Rupangkan/dsa-practice/tree/master/2887-sort-vowels-in-a-string) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Rupangkan/dsa-practice/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Rupangkan/dsa-practice/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -926,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rupangkan/dsa-practice/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Rupangkan/dsa-practice/tree/master/2562-count-ways-to-build-good-strings) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Rupangkan/dsa-practice/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2879-minimum-changes-to-make-k-semi-palindromes](https://github.com/Rupangkan/dsa-practice/tree/master/2879-minimum-changes-to-make-k-semi-palindromes) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Rupangkan/dsa-practice/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Rupangkan/dsa-practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Rupangkan/dsa-practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -1400,6 +1402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Rupangkan/dsa-practice/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2634-minimum-common-value](https://github.com/Rupangkan/dsa-practice/tree/master/2634-minimum-common-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Rupangkan/dsa-practice/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2879-minimum-changes-to-make-k-semi-palindromes](https://github.com/Rupangkan/dsa-practice/tree/master/2879-minimum-changes-to-make-k-semi-palindromes) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Rupangkan/dsa-practice/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/Rupangkan/dsa-practice/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Rupangkan/dsa-practice/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
